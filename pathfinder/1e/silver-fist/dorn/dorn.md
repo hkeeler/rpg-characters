@@ -6,7 +6,7 @@
 |-------------|---------------------------------------------------------|
 | Campaign    | Silver Fist                                             |
 | Race        | Human                                                   |
-| Class/Level | Monk: 13, Cleric: 1                                     |
+| Class/Level | Monk: 14, Cleric: 1                                     |
 | Alignment   | LN                                                      |
 | Deity       | [Ogmah](http://forgottenrealms.wikia.com/wiki/Oghma#3e) |
 | Languages   | Common, Draconic, Infernal                              |
@@ -19,10 +19,10 @@
 
 |       |         |
 |-------|---------|
-| XP    | 350,500 |
-| HP    | 118     |
+| XP    | 425,000 |
+| HP    | 129     |
 | Ki    | ???     | 
-| Money | 3483 GP |
+| Money | 3417 GP |
 | Hero  | 2       |
 
 ## Abilities
@@ -47,25 +47,25 @@
 
 |            | Score | Base | Bonus    | Other      |
 |------------|-------|------|----------|------------|
-| Fortitude  |   15  |  10  | +4 (Con) | +1 (Cloak) |
-| Reflex     |   13  |   8  | +4 (Dex) | +1 (Cloak) |
-| Will       |   16  |  10  | +5 (Wis) | +1 (Cloak) |
+| Fortitude  |   14  |   9  | +4 (Con) | +1 (Cloak) |
+| Reflex     |   14  |   9  | +4 (Dex) | +1 (Cloak) |
+| Will       |   15  |   9  | +5 (Wis) | +1 (Cloak) |
 
-* +2 Against Enchantments (Still Mind Feat)
+* +2 Against Enchantments (Still Mind)
 
 
 ## Attacks
 
-| Type                | Base             | Bonuses              |
-|---------------------|------------------|----------------------|
-| Melee               | +9/+4            | +4 (Dex)             |
-| Flurry of Blows     | +11/+11/+6/+6/+1 | +4 (Dex)             |
-| Melee               | +14/+9           | 9/4 (Base) + 4 (Dex) |
-| Ranged              | +13/+8           | 9/4 (Base) + 4 (Dex) |
+| Type                | Score              | Base             | Bonuses  |
+|---------------------|--------------------|------------------|----------|
+| Melee               | +14/+9             | +10/+5           | +4 (Dex) |
+| Flurry of Blows     | +16/+16/+11/+11/+6 | +12/+12/+7/+7/+2 | +4 (Dex) |
+| Ranged              | +14/+9             | +10/+5           | +4 (Dex) |
 
 
-Weapon               Bonus   Dmg   Crit
-Fist    +16/+16/+11/+11/+6   2D8*   20
+| Weapon | Bonus              | Dmg  | Crit |
+|--------|--------------------|------|------|
+| Fist   | +16/+16/+11/+11/+6 | 2D8* | 20   |
 
 `*` 2D6 without Monk’s Robe
 
@@ -81,10 +81,10 @@ Fist    +16/+16/+11/+11/+6   2D8*   20
 
 | Skill                                                               | Total | Rank | Class | Ability | Special   | Untrained |
 |---------------------------------------------------------------------|-------|------|-------|---------|-----------|-----------|
-| [Acrobatics](http://www.d20pfsrd.com/skills/acrobatics)             |  20   |  13  |   3   | 4 (Dex) | + 13 Jump |     Y     |
+| [Acrobatics](http://www.d20pfsrd.com/skills/acrobatics)             |  21*  |  14  |   3   | 4 (Dex) | + 13 Jump |     Y     |
 | [Appraise](http://www.d20pfsrd.com/skills/appraise)                 |   5   |   0  |   3   | 2 (Int) |           |     Y     |
 | [Bluff](http://www.d20pfsrd.com/skills/bluff)                       |   1   |   0  |   0   | 1 (Cha) |           |     Y     |
-| [Climb](http://www.d20pfsrd.com/skills/climb)                       |  16   |  13  |   3   | 0 (Str) |           |     Y     |
+| [Climb](http://www.d20pfsrd.com/skills/climb)                       |  17   |  14  |   3   | 0 (Str) |           |     Y     |
 | [Craft](http://www.d20pfsrd.com/skills/craft)                       |   5   |   0  |   3   | 2 (Int) |           |     Y     |
 | [Diplomacy](http://www.d20pfsrd.com/skills/diplomacy)               |   4   |   0  |   3   | 1 (Cha) |           |     Y     |
 | [Disable Device](http://www.d20pfsrd.com/skills/diplomacy)          |   5   |   1  |   0   | 4 (Dex) |           |     N     |
@@ -94,7 +94,7 @@ Fist    +16/+16/+11/+11/+6   2D8*   20
 | [Handle Animal](http://www.d20pfsrd.com/skills/handle-animal)       |   -   |   0  |   0   | 1 (Cha) |           |     N     |
 | [Heal](http://www.d20pfsrd.com/skills/heal)                         |   8   |   0  |   3   | 5 (Wis) |           |     Y     |
 | [Intimidate](http://www.d20pfsrd.com/skills/intimidate)             |   4   |   0  |   3   | 1 (Cha) |           |     Y     |
-| [Knowledge (arcana)](http://www.d20pfsrd.com/skills/knowledge)      |  18   |   8  |   3   | 2 (Int) | 5 (Ogmah) |     N     |
+| [Knowledge (arcana)](http://www.d20pfsrd.com/skills/knowledge)      |  18*  |   8  |   3   | 2 (Int) | 5 (Ogmah) |     N     |
 | [Knowledge (dungeon)](http://www.d20pfsrd.com/skills/knowledge)     |  11   |   1  |   3*  | 2 (Int) | 5 (Ogmah) |     N     |
 | [Knowledge (engineer)](http://www.d20pfsrd.com/skills/knowledge)    |  11   |   1  |   3*  | 2 (Int) | 5 (Ogmah) |     N     |
 | [Knowledge (geography)](http://www.d20pfsrd.com/skills/knowledge)   |  11   |   1  |   3*  | 2 (Int) | 5 (Ogmah) |     N     |
@@ -105,14 +105,14 @@ Fist    +16/+16/+11/+11/+6   2D8*   20
 | [Knowledge (planes)](http://www.d20pfsrd.com/skills/knowledge)      |  11   |   1  |   3   | 2 (Int) | 5 (Ogmah) |     N     |
 | [Knowledge (religion)](http://www.d20pfsrd.com/skills/knowledge)    |  18   |   8  |   3   | 2 (Int) | 5 (Ogmah) |     N     |
 | [Linguistics](http://www.d20pfsrd.com/skills/linguistics)           |   6   |   1  |   3   | 2 (Int) |           |     N     |
-| [Perception](http://www.d20pfsrd.com/skills/perception)             |  13   |   5  |   3   | 5 (Wis) |           |     Y     |
+| [Perception](http://www.d20pfsrd.com/skills/perception)             |  17   |   9  |   3   | 5 (Wis) |           |     Y     |
 | [Perform](http://www.d20pfsrd.com/skills/perform)                   |   4   |   0  |   3   | 1 (Cha) |           |     Y     |
 | [Profession](http://www.d20pfsrd.com/skills/profession)             |   -   |   0  |   3   | 5 (Wis) |           |     N     |
 | [Ride](http://www.d20pfsrd.com/skills/ride)                         |   7   |   0  |   3   | 4 (Dex) |           |     Y     |
 | [Sense Motive](http://www.d20pfsrd.com/skills/sense-motive)         |   8   |   0  |   3   | 5 (Wis) |           |     Y     |
 | [Sleight of Hand](http://www.d20pfsrd.com/skills/sleight-of-hand)   |   5   |   1  |   0   | 4 (Dex) |           |     N     |
 | [Spellcraft](http://www.d20pfsrd.com/skills/spellcraft)             |   6   |   1  |   3   | 2 (Int) |           |     Y     |
-| [Stealth](http://www.d20pfsrd.com/skills/stealth)                   |  20   |  13  |   3   | 4 (Dex) |           |     Y     |
+| [Stealth](http://www.d20pfsrd.com/skills/stealth)                   |  21   |  14  |   3   | 4 (Dex) |           |     Y     |
 | [Survival](http://www.d20pfsrd.com/skills/survival)                 |   5   |   0  |   0   | 5 (Wis) |           |     Y     |
 | [Swim](http://www.d20pfsrd.com/skills/swim)                         |   3   |   0  |   0   | 0 (Str) |           |     Y     |
 | [Use Magic Device](http://www.d20pfsrd.com/skills/use-magic-device) |   2   |   1  |   0   | 1 (Cha) |           |     N     |
