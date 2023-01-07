@@ -56,16 +56,16 @@
 
 ## Attacks
 
-| Type                | Score              | Base             | Bonuses  |
-|---------------------|--------------------|------------------|----------|
-| Melee               | +14/+9             | +10/+5           | +4 (Dex) |
-| Flurry of Blows     | +16/+16/+11/+11/+6 | +12/+12/+7/+7/+2 | +4 (Dex) |
-| Ranged              | +14/+9             | +10/+5           | +4 (Dex) |
+| Type                | Score              | Base             | Bonuses            |
+|---------------------|--------------------|------------------|--------------------|
+| Melee               | +14/+9             | +10/+5           | +4 (Dex) +1 (Robe) |
+| Flurry of Blows     | +17/+17/+12/+12/+7 | +12/+12/+7/+7/+2 | +4 (Dex) +1 (Robe) |
+| Ranged              | +14/+9             | +10/+5           | +4 (Dex)           |
 
 
 | Weapon | Bonus              | Dmg  | Crit |
 |--------|--------------------|------|------|
-| Fist   | +16/+16/+11/+11/+6 | 2D8* | 20   |
+| Fist   | +17/+17/+12/+12/+7 | 2D8* | 20   |
 
 `*` 2D6 without Monk’s Robe
 
@@ -140,10 +140,14 @@
 
 - +1 AC against a single opponent.
 
-### [Leadership](http://www.d20pfsrd.com/feats/general-feats/leadership---final) (13th Level: Standard)
+### [Disorienting Maneuver](https://www.d20pfsrd.com/feats/general-feats/disorienting-maneuver)
 
-- 1 Cohort
-- Many followers
+If you successfully use Acrobatics to tumble through an opponent’s space, you gain a +2 circumstance bonus on attack rolls against that opponent until the start of your next turn. If you choose to make a trip attempt against that opponent, you gain a +4 circumstance bonus on your combat maneuver check. This bonus on trip also lasts until the start of your next turn.
+
+### [Mantis Strike](https://www.d20pfsrd.com/feats/combat-feats/mantis-style-combat-style/)
+
+- +1 Stun attack
+- +2 Stun DC
 
 ### [Medusa’s Wrath](http://www.d20pfsrd.com/feats/combat-feats/medusa-s-wrath-combat---final) (10th Level: Monk Bonus)
 
@@ -168,10 +172,16 @@ On full-attack action with at least one unarmed strike, make two extra unarmed s
 - Cannot use this against a foe adjacent to you at the start of your turn.
 
 ### [Vital Strike](http://www.d20pfsrd.com/feats/combat-feats/vital-strike-combat---final) (11th Level: Standard)
+
 For an attack action, make one attack at your highest base attack bonus rolling weapon damage twice and adding the results together. 
 Roll weapon damage twice and add the results together before adding bonuses from Strength, weapon abilities (such as flaming), precision-based damage, and other damage bonuses.
 
 These extra weapon damage dice are not multiplied on a critical hit, but are added to the total.
+
+### [Improved Vital Strike](https://www.d20pfsrd.com/feats/combat-feats/vital-strike-combat)
+
+For an attack action, make one attack at your highest base attack bonus rolling weapon damage x3 and adding the results together. 
+Roll weapon damage twice and add the results together before adding bonuses from Strength, weapon abilities (such as flaming), precision-based damage, and other damage bonuses.
 
 ### [Weapon Finesse](http://www.d20pfsrd.com/feats/combat-feats/weapon-finesse-combat---final) (Fist) (1st Level: Monk Bonus)
 
@@ -286,6 +296,10 @@ These extra weapon damage dice are not multiplied on a critical hit, but are add
 - Ki Straps (7,500 gp = 5,000(standard) + 2,500(DM))
     - +2 Stun DC
     - +2 Ki Points (DM Addition)
+- Monk's Robe
+    - AC +5 Monk Levels
+    - Dmg +5 Monk Levels
+    - +1 Stunning attack
 - Ring of Protection (18,000 gp)
     - +2 AC
 - Ultimate Athleticism Belt (3,600 gp)
