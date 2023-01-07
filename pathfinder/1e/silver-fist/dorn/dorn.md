@@ -201,7 +201,7 @@ Roll weapon damage twice and add the results together before adding bonuses from
 ### [Stunning Fist](http://www.d20pfsrd.com/classes/core-classes/monk#TOC-Stunning-Fist-Ex-)
 
 - Stunned creature drops everything, no actions, –2 AC, no Dexterity AC
-- Fort DC: 24 = 10(Base) + 7 (1/2 Monk Lvl) + 5 (Wis) + 2 (Ki Straps)
+- Fort DC: 26 = 10(Base) + 7 (1/2 Monk Lvl) + 5 (Wis) + 2 (Ki Straps) +2 (Mantis Strike)
 - Uses per Day: 14
 - Player may choose to replace “stunned” with:
     - fatigued
