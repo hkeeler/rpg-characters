@@ -81,7 +81,7 @@
 
 | Skill                                                               | Total | Rank | Class | Ability | Special   | Untrained |
 |---------------------------------------------------------------------|-------|------|-------|---------|-----------|-----------|
-| [Acrobatics](http://www.d20pfsrd.com/skills/acrobatics)             |  35   |  14  |   3   | 4 (Dex) | + 14 Jump |     Y     |
+| [Acrobatics](http://www.d20pfsrd.com/skills/acrobatics)             |  21   |  14  |   3   | 4 (Dex) | + 14 Jump |     Y     |
 | [Appraise](http://www.d20pfsrd.com/skills/appraise)                 |   7   |   0  |   3   | 4 (Int) |           |     Y     |
 | [Bluff](http://www.d20pfsrd.com/skills/bluff)                       |   1   |   0  |   0   | 1 (Cha) |           |     Y     |
 | [Climb](http://www.d20pfsrd.com/skills/climb)                       |  17   |  14  |   3   | 0 (Str) |           |     Y     |
