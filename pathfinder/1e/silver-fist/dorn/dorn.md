@@ -77,7 +77,7 @@
 | CMB |   14  | 14 (Monk Lvl) + 0 (Str) + 0 (Size)          | See [Maneuver Training](http://www.d20pfsrd.com/classes/core-classes/monk#TOC-Maneuver-Training-Ex-) |
 | CMD |   37  | 10 + 15 (HD) + 4 (Dex) + 5 (Wis) + 3 (Monk) | See [Defensive Combat](http://www.d20pfsrd.com/feats/combat-feats/defensive-combat-training-combat)  |
 
-
+## Skills
 
 | Skill                                                               | Total | Rank | Class | Ability | Special   | Untrained |
 |---------------------------------------------------------------------|-------|------|-------|---------|-----------|-----------|
@@ -119,6 +119,19 @@
 
 `*` Class skill because of Knowledge cleric domain
 
+### Skill Unlocks
+
+#### Acrobatics
+
+- 5 Ranks
+    - You can move at normal speed through a threatened square without provoking an attack of opportunity by increasing the DC of the check by 5 (instead of by 10).
+    - You aren't denied your Dexterity bonus when attempting Acrobatics checks with DCs of 20 or lower.
+
+- 10 Ranks
+    - You can attempt an Acrobatics check at a –10 penalty and use the result as your CMD against trip maneuvers.
+    - You can also attempt an Acrobatics check at a –10 penalty in place of a Reflex save to avoid falling.
+    - You must choose to use this ability before the trip attempt or Reflex save is rolled.
+    - With a successful DC 20 Acrobatics check, you treat an unintentional fall as 10 feet shorter plus 10 feet for every 10 by which you exceed the DC, and treat an intentional fall as 10 feet shorter for every 10 by which you exceed the DC.
 
 ## Feats
 
