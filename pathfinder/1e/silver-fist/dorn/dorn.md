@@ -39,7 +39,7 @@
 
 |            | Score | Details                                                        |
 |------------|-------|----------------------------------------------------------------|
-| AC         |   25  | 10 (Base) + 4 (Dex) + 5 (Wis) + 3 (Monk) + 2 (Ring) + 1 (Robe) |
+| AC         |   26  | 10 (Base) + 4 (Dex) + 5 (Wis) + 4 (Monk) + 2 (Ring) + 1 (Robe) |
 | Speed      |   80  | 30 (Human) + 40 (Monk) +10 (Travel Domain)                     |
 | Initiative |   +4  | +4 (Dex)                                                       |
 
