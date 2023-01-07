@@ -21,7 +21,7 @@
 |-------|---------|
 | XP    | 425,000 |
 | HP    | 129     |
-| Ki    | ???     | 
+| Ki    | 14      | 
 | Money | 3417 GP |
 | Hero  | 2       |
 
@@ -224,7 +224,7 @@ Roll weapon damage twice and add the results together before adding bonuses from
 
 ### [Ki Pool](http://www.d20pfsrd.com/classes/core-classes/monk#TOC-Ki-Pool-Su-)
 
-- Ki Points: 12 = 7 (1/2 Monk lvl) + 5 (Wis)
+- Ki Points: 14 = 7 (1/2 Monk lvl) + 5 (Wis) + 2 (ki straps)
 - Unarmed attacks are magic and lawful weapons against damage reduction.
 - 1 Ki point: Extra attack during Flurry of Blows at highest attack bonus.
 - 1 Ki point: Increase speed by +20 for one round.
