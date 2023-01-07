@@ -74,8 +74,8 @@
 
 |     | Score | Details                                     | Notes                                                                                                |
 |-----|-------|---------------------------------------------|------------------------------------------------------------------------------------------------------|
-| CMB |   13  | 13 (Monk Lvl) + 0 (Str) + 0 (Size)          | See [Maneuver Training](http://www.d20pfsrd.com/classes/core-classes/monk#TOC-Maneuver-Training-Ex-) |
-| CMD |   36  | 10 + 14 (HD) + 4 (Dex) + 5 (Wis) + 3 (Monk) | See [Defensive Combat](http://www.d20pfsrd.com/feats/combat-feats/defensive-combat-training-combat)  |
+| CMB |   14  | 14 (Monk Lvl) + 0 (Str) + 0 (Size)          | See [Maneuver Training](http://www.d20pfsrd.com/classes/core-classes/monk#TOC-Maneuver-Training-Ex-) |
+| CMD |   37  | 10 + 15 (HD) + 4 (Dex) + 5 (Wis) + 3 (Monk) | See [Defensive Combat](http://www.d20pfsrd.com/feats/combat-feats/defensive-combat-training-combat)  |
 
 
 
