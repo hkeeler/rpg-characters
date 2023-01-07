@@ -32,7 +32,7 @@
 | STR |  11   |   0   |
 | DEX |  18   |  +4   |
 | CON |  18   |  +4   |
-| INT |  14   |  +2   |
+| INT |  18   |  +4   |
 | WIS |  20   |  +5   |
 | CHA |  13   |  +1   |
 
@@ -82,10 +82,10 @@
 | Skill                                                               | Total | Rank | Class | Ability | Special   | Untrained |
 |---------------------------------------------------------------------|-------|------|-------|---------|-----------|-----------|
 | [Acrobatics](http://www.d20pfsrd.com/skills/acrobatics)             |  35   |  14  |   3   | 4 (Dex) | + 14 Jump |     Y     |
-| [Appraise](http://www.d20pfsrd.com/skills/appraise)                 |   5   |   0  |   3   | 2 (Int) |           |     Y     |
+| [Appraise](http://www.d20pfsrd.com/skills/appraise)                 |   7   |   0  |   3   | 4 (Int) |           |     Y     |
 | [Bluff](http://www.d20pfsrd.com/skills/bluff)                       |   1   |   0  |   0   | 1 (Cha) |           |     Y     |
 | [Climb](http://www.d20pfsrd.com/skills/climb)                       |  17   |  14  |   3   | 0 (Str) |           |     Y     |
-| [Craft](http://www.d20pfsrd.com/skills/craft)                       |   5   |   0  |   3   | 2 (Int) |           |     Y     |
+| [Craft](http://www.d20pfsrd.com/skills/craft)                       |   7   |   0  |   3   | 4 (Int) |           |     Y     |
 | [Diplomacy](http://www.d20pfsrd.com/skills/diplomacy)               |   4   |   0  |   3   | 1 (Cha) |           |     Y     |
 | [Disable Device](http://www.d20pfsrd.com/skills/diplomacy)          |   5   |   1  |   0   | 4 (Dex) |           |     N     |
 | [Disguise](http://www.d20pfsrd.com/skills/disguise)                 |   1   |   0  |   0   | 1 (Cha) |           |     Y     |
@@ -94,24 +94,24 @@
 | [Handle Animal](http://www.d20pfsrd.com/skills/handle-animal)       |   -   |   0  |   0   | 1 (Cha) |           |     N     |
 | [Heal](http://www.d20pfsrd.com/skills/heal)                         |   8   |   0  |   3   | 5 (Wis) |           |     Y     |
 | [Intimidate](http://www.d20pfsrd.com/skills/intimidate)             |   4   |   0  |   3   | 1 (Cha) |           |     Y     |
-| [Knowledge (arcana)](http://www.d20pfsrd.com/skills/knowledge)      |  18*  |   8  |   3   | 2 (Int) | 5 (Ogmah) |     N     |
-| [Knowledge (dungeon)](http://www.d20pfsrd.com/skills/knowledge)     |  11   |   1  |   3*  | 2 (Int) | 5 (Ogmah) |     N     |
-| [Knowledge (engineer)](http://www.d20pfsrd.com/skills/knowledge)    |  11   |   1  |   3*  | 2 (Int) | 5 (Ogmah) |     N     |
-| [Knowledge (geography)](http://www.d20pfsrd.com/skills/knowledge)   |  11   |   1  |   3*  | 2 (Int) | 5 (Ogmah) |     N     |
-| [Knowledge (history)](http://www.d20pfsrd.com/skills/knowledge)     |  11   |   1  |   3   | 2 (Int) | 5 (Ogmah) |     N     |
-| [Knowledge (local)](http://www.d20pfsrd.com/skills/knowledge)       |  11   |   1  |   3*  | 2 (Int) | 5 (Ogmah) |     N     |
-| [Knowledge (nature)](http://www.d20pfsrd.com/skills/knowledge)      |  11   |   1  |   3*  | 2 (Int) | 5 (Ogmah) |     N     |
-| [Knowledge (nobility)](http://www.d20pfsrd.com/skills/knowledge)    |  11   |   1  |   3   | 2 (Int) | 5 (Ogmah) |     N     |
-| [Knowledge (planes)](http://www.d20pfsrd.com/skills/knowledge)      |  11   |   1  |   3   | 2 (Int) | 5 (Ogmah) |     N     |
-| [Knowledge (religion)](http://www.d20pfsrd.com/skills/knowledge)    |  18   |   8  |   3   | 2 (Int) | 5 (Ogmah) |     N     |
-| [Linguistics](http://www.d20pfsrd.com/skills/linguistics)           |   6   |   1  |   3   | 2 (Int) |           |     N     |
+| [Knowledge (arcana)](http://www.d20pfsrd.com/skills/knowledge)      |  20*  |   8  |   3   | 4 (Int) | 5 (Ogmah) |     N     |
+| [Knowledge (dungeon)](http://www.d20pfsrd.com/skills/knowledge)     |  13   |   1  |   3*  | 4 (Int) | 5 (Ogmah) |     N     |
+| [Knowledge (engineer)](http://www.d20pfsrd.com/skills/knowledge)    |  13   |   1  |   3*  | 4 (Int) | 5 (Ogmah) |     N     |
+| [Knowledge (geography)](http://www.d20pfsrd.com/skills/knowledge)   |  13   |   1  |   3*  | 4 (Int) | 5 (Ogmah) |     N     |
+| [Knowledge (history)](http://www.d20pfsrd.com/skills/knowledge)     |  13   |   1  |   3   | 4 (Int) | 5 (Ogmah) |     N     |
+| [Knowledge (local)](http://www.d20pfsrd.com/skills/knowledge)       |  13   |   1  |   3*  | 4 (Int) | 5 (Ogmah) |     N     |
+| [Knowledge (nature)](http://www.d20pfsrd.com/skills/knowledge)      |  13   |   1  |   3*  | 4 (Int) | 5 (Ogmah) |     N     |
+| [Knowledge (nobility)](http://www.d20pfsrd.com/skills/knowledge)    |  13   |   1  |   3   | 4 (Int) | 5 (Ogmah) |     N     |
+| [Knowledge (planes)](http://www.d20pfsrd.com/skills/knowledge)      |  13   |   1  |   3   | 4 (Int) | 5 (Ogmah) |     N     |
+| [Knowledge (religion)](http://www.d20pfsrd.com/skills/knowledge)    |  20   |   8  |   3   | 4 (Int) | 5 (Ogmah) |     N     |
+| [Linguistics](http://www.d20pfsrd.com/skills/linguistics)           |   8   |   1  |   3   | 4 (Int) |           |     N     |
 | [Perception](http://www.d20pfsrd.com/skills/perception)             |  17   |   9  |   3   | 5 (Wis) |           |     Y     |
 | [Perform](http://www.d20pfsrd.com/skills/perform)                   |   4   |   0  |   3   | 1 (Cha) |           |     Y     |
 | [Profession](http://www.d20pfsrd.com/skills/profession)             |   -   |   0  |   3   | 5 (Wis) |           |     N     |
 | [Ride](http://www.d20pfsrd.com/skills/ride)                         |   7   |   0  |   3   | 4 (Dex) |           |     Y     |
 | [Sense Motive](http://www.d20pfsrd.com/skills/sense-motive)         |   8   |   0  |   3   | 5 (Wis) |           |     Y     |
 | [Sleight of Hand](http://www.d20pfsrd.com/skills/sleight-of-hand)   |   5   |   1  |   0   | 4 (Dex) |           |     N     |
-| [Spellcraft](http://www.d20pfsrd.com/skills/spellcraft)             |   6   |   1  |   3   | 2 (Int) |           |     Y     |
+| [Spellcraft](http://www.d20pfsrd.com/skills/spellcraft)             |   8   |   1  |   3   | 4 (Int) |           |     Y     |
 | [Stealth](http://www.d20pfsrd.com/skills/stealth)                   |  21   |  14  |   3   | 4 (Dex) |           |     Y     |
 | [Survival](http://www.d20pfsrd.com/skills/survival)                 |   5   |   0  |   0   | 5 (Wis) |           |     Y     |
 | [Swim](http://www.d20pfsrd.com/skills/swim)                         |   3   |   0  |   0   | 0 (Str) |           |     Y     |
