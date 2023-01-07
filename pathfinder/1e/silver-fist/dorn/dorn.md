@@ -259,7 +259,7 @@ Roll weapon damage twice and add the results together before adding bonuses from
 
 ### [Diamond Soul](http://www.d20pfsrd.com/classes/core-classes/monk#TOC-Diamond-Soul-Ex-)
 
-- [Spell Resistance](http://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Spell-Resistance): 23 = 10 + 13(Monk Level)
+- [Spell Resistance](http://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Spell-Resistance): 24 = 10 + 14 (Monk Level)
 
 
 
