@@ -12,8 +12,8 @@
 | Languages   | Common, Halfling, ???, ???                              |
 | Size        | Medium                                                  |
 | Age         | 42 (When we started)                                    |
-| Height      | 6'1"                                                    |
-| Weight      | 220                                                     |
+| Height      | 3'6"                                                    |
+| Weight      | 120                                                     |
 
 ## Stats
 
@@ -21,7 +21,7 @@
 |-------|---------|
 | XP    | 0       |
 | HP    | ???     |
-| Money | 0 GP |
+| Money | 0 GP    |
 | Hero  | 0       |
 
 ## Abilities
