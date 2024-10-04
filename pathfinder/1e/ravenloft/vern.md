@@ -20,7 +20,7 @@
 |       |         |
 |-------|---------|
 | XP    | 0       |
-| HP    | 14      |
+| HP    | 25      |
 | Money | 0 GP    |
 | Hero  | 0       |
 
@@ -35,52 +35,53 @@
 | WIS |  14   |   +2  |
 | CHA |  14   |   +2  |
 
-|            | Score | Details               |
-|------------|-------|-----------------------|
-| AC         |   13  | 10 (Base) +3 (Dex)    | 
-| Speed      |   20  | 20 (Halfling)         |
-| Initiative |   +3  | +3 (Dex)              |
+|            | Score | Details                       |
+|------------|-------|-------------------------------|
+| AC         |   15  | 10 (Base) +4 (Dex) +1 (Dodge) | 
+| Speed      |   20  | 20 (Halfling)                 |
+| Initiative |   +4  | +4 (Dex)                      |
 
 ## Saves
 
 |            | Score | Base | Bonus    | Other         |
 |------------|-------|------|----------|---------------|
-| Fortitude  |    6  |   2  | +4 (Con) | +1 (Halfling) |
-| Reflex     |    4  |   0  | +3 (Dex) | +1 (Halfling) |
+| Fortitude  |    7  |   3  | +4 (Con) | +1 (Halfling) |
+| Reflex     |    5  |   0  | +4 (Dex) | +1 (Halfling) |
 | Will       |    3  |   0  | +2 (Wis) | +1 (Halfling) |
 
 * +2 Against Fear (Halfling)
+* +1 Against Fear (Fighter)
 
 
 ## Attacks
 
 | Type                | Score              | Base | Bonuses                 |
 |---------------------|--------------------|------|-------------------------|
-| Melee               | +6                 | +1   | +4 (Dex) + 1 (Halfling) |
+| Melee (light)       | +7                 | +2   | +4 (Dex) + 1 (Halfling) |
 
 
 | Weapon              | Bonus   | Dmg  | Crit  |
 |---------------------|---------|------|-------|
-| Elven Curve Blade   | +6      | 1D8  | 18-20 |
+| Elven Curve Blade   | +7      | 1D8  | 18-20 |
 
 - See: [Elven Curve Blade](https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Elven%20curve%20blade)
 
 
 ## [Combat Maneuvers](https://www.aonprd.com/Rules.aspx?ID=188)
 
-|     | Score | Details                                     | Notes                                                                             |
-|-----|-------|---------------------------------------------|-----------------------------------------------------------------------------------|
-| CMB |    4  | 1 (base atk) + 4 (Dex*) - 1 (Small)         | [Agile Maneuvers](https://aonprd.com/FeatDisplay.aspx?ItemName=Agile%20Maneuvers) |
-| CMD |   14  | 10 + 1 + 0 (Str) + 4 (Dex) -1 (Small)       |                                                                                   |
+|     | Score | Details                                           | Notes                                                                             |
+|-----|-------|---------------------------------------------------|-----------------------------------------------------------------------------------|
+| CMB |    6  | 2 (base atk) + 4 (Dex*) - 1 (Small)               | [Agile Maneuvers](https://aonprd.com/FeatDisplay.aspx?ItemName=Agile%20Maneuvers) |
+| CMD |   14  | 10 + 2 (base atk) + 0 (Str) + 4 (Dex) - 1 (Small) |                                                                                   |
 
 
 ## Skills
 
 | Skill                                                               | Total | Rank | Class | Ability | Special       | Untrained |
 |---------------------------------------------------------------------|-------|------|-------|---------|---------------|-----------|
-| [Acrobatics](http://www.d20pfsrd.com/skills/acrobatics)             |    6  |   0  |   0   | 4 (Dex) | +2 (Halfling) |     Y     |
+| [Acrobatics](http://www.d20pfsrd.com/skills/acrobatics)             |    6  |   0  |   2   | 4 (Dex) | +2 (Halfling) |     Y     |
 | [Appraise](http://www.d20pfsrd.com/skills/appraise)                 |    2  |   0  |   0   | 2 (Int) |               |     Y     |
-| [Bluff](http://www.d20pfsrd.com/skills/bluff)                       |    2  |   0  |   0   | 2 (Cha) |               |     Y     |
+| [Bluff](http://www.d20pfsrd.com/skills/bluff)                       |    2  |   0  |   2   | 2 (Cha) |               |     Y     |
 | [Climb](http://www.d20pfsrd.com/skills/climb)                       |    5  |   0  |   3   | 0 (Str) | +2 (Halfling) |     Y     |
 | [Craft](http://www.d20pfsrd.com/skills/craft)                       |    5  |   0  |   3   | 2 (Int) |               |     Y     |
 | [Diplomacy](http://www.d20pfsrd.com/skills/diplomacy)               |    2  |   0  |   0   | 2 (Cha) |               |     Y     |
@@ -128,6 +129,10 @@
 - With a light weapon, use Dex on attack rolls.
 - If you carry a shield, its armor check penalty applies to your attack rolls.
 
+### [Dodge](https://aonprd.com/FeatDisplay.aspx?ItemName=Dodge)
+
+- +1 AC
+
 ## Racial Traits
 
 - **Abilities:** +2 DEX, +2 CHA, -2 STR
@@ -147,6 +152,11 @@
 - At 1st level, and at every even level thereafter, a fighter gains a bonus feat in addition to those gained from normal advancement
 - These bonus feats must be selected from those listed as combat feats.
 
+
+### Bravery
+
+- +1 bonus on Will saves against fear.
+- This bonus increases by +1 for every four levels beyond 2nd.
 
 ## Items
 
@@ -171,3 +181,6 @@ Rolled 4D6, removing the worst die.
 - WIS: 2,5,4,5 => 14
 - CHA: 4,2,6,2 => 12 + 2 (Halfling) => 14
     
+### Level 2
+
+- HP: 7 + 4 (Con) = 11
