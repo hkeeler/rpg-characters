@@ -9,7 +9,7 @@
 | Class/Level | Fighter: 1                                              |
 | Alignment   | N                                                       |
 | Deity       | []() |
-| Languages   | Common, Halfling, ???, ???                              |
+| Languages   | Common, Halfling, Goblin, Gnome                         |
 | Size        | Medium                                                  |
 | Age         | 42 (When we started)                                    |
 | Height      | 3'6"                                                    |
@@ -20,7 +20,7 @@
 |       |         |
 |-------|---------|
 | XP    | 0       |
-| HP    | ???     |
+| HP    | 14      |
 | Money | 0 GP    |
 | Hero  | 0       |
 
