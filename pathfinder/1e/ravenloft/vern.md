@@ -20,7 +20,7 @@
 |       |         |
 |-------|---------|
 | XP    | 0       |
-| HP    | 36      |
+| HP    | 50      |
 | Money | 0 GP    |
 | Hero  | 0       |
 
@@ -28,7 +28,7 @@
 
 |     | Score | Bonus |
 |-----|-------|-------|
-| STR |  11   |   +0  |
+| STR |  12   |   +1  |
 | DEX |  18   |   +4  |
 | CON |  18   |   +4  |
 | INT |  14   |   +2  |
@@ -47,7 +47,7 @@
 
 |            | Score | Base | Bonus    | Other         |
 |------------|-------|------|----------|---------------|
-| Fortitude  |    7  |   3  | +4 (Con) | +1 (Halfling) |
+| Fortitude  |    9  |   4  | +4 (Con) | +1 (Halfling) |
 | Reflex     |    6  |   1  | +4 (Dex) | +1 (Halfling) |
 | Will       |    4  |   1  | +2 (Wis) | +1 (Halfling) |
 
@@ -59,12 +59,12 @@
 
 | Type                | Score              | Base | Bonuses                 |
 |---------------------|--------------------|------|-------------------------|
-| Melee (light)       | +8                 | +3   | +4 (Dex) + 1 (Halfling) |
+| Melee (light)       | +9                 | +4   | +4 (Dex) + 1 (Halfling) |
 
 
-| Weapon              | Bonus   | Dmg  | Crit  |
-|---------------------|---------|------|-------|
-| Elven Curve Blade   | +8      | 1D8  | 18-20 |
+| Weapon              | Bonus   | Dmg          | Crit  |
+|---------------------|---------|--------------|-------|
+| Elven Curve Blade   | +9      | 1D8 +1 (Str) | 18-20 |
 
 - See: [Elven Curve Blade](https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Elven%20curve%20blade)
 
@@ -73,18 +73,18 @@
 
 |     | Score | Details                                           | Notes                                                                             |
 |-----|-------|---------------------------------------------------|-----------------------------------------------------------------------------------|
-| CMB |    7  | 3 (base atk) + 4 (Dex*) - 1 (Small)               | [Agile Maneuvers](https://aonprd.com/FeatDisplay.aspx?ItemName=Agile%20Maneuvers) |
-| CMD |   16  | 10 + 3 (base atk) + 0 (Str) + 4 (Dex) - 1 (Small) |                                                                                   |
+| CMB |    8  | 4 (base atk) + 4 (Dex*) - 1 (Small)               | [Agile Maneuvers](https://aonprd.com/FeatDisplay.aspx?ItemName=Agile%20Maneuvers) |
+| CMD |   18  | 10 + 4 (base atk) + 1 (Str) + 4 (Dex) - 1 (Small) |                                                                                   |
 
 
 ## Skills
 
 | Skill                                                               | Total | Rank | Class | Ability | Special       | Untrained |
 |---------------------------------------------------------------------|-------|------|-------|---------|---------------|-----------|
-| [Acrobatics](http://www.d20pfsrd.com/skills/acrobatics)             |    6  |   3  |   0   | 4 (Dex) | +2 (Halfling) |     Y     |
+| [Acrobatics](http://www.d20pfsrd.com/skills/acrobatics)             |    6  |   4  |   0   | 4 (Dex) | +2 (Halfling) |     Y     |
 | [Appraise](http://www.d20pfsrd.com/skills/appraise)                 |    2  |   0  |   0   | 2 (Int) |               |     Y     |
-| [Bluff](http://www.d20pfsrd.com/skills/bluff)                       |    2  |   3  |   0   | 2 (Cha) |               |     Y     |
-| [Climb](http://www.d20pfsrd.com/skills/climb)                       |    5  |   0  |   3   | 0 (Str) | +2 (Halfling) |     Y     |
+| [Bluff](http://www.d20pfsrd.com/skills/bluff)                       |    2  |   4  |   0   | 2 (Cha) |               |     Y     |
+| [Climb](http://www.d20pfsrd.com/skills/climb)                       |    7  |   1  |   3   | 1 (Str) | +2 (Halfling) |     Y     |
 | [Craft](http://www.d20pfsrd.com/skills/craft)                       |    5  |   0  |   3   | 2 (Int) |               |     Y     |
 | [Diplomacy](http://www.d20pfsrd.com/skills/diplomacy)               |    2  |   0  |   0   | 2 (Cha) |               |     Y     |
 | [Disable Device](http://www.d20pfsrd.com/skills/disable-device)     |    0  |   0  |   0   | 4 (Dex) |               |     N     |
@@ -105,7 +105,7 @@
 | [Knowledge (planes)](http://www.d20pfsrd.com/skills/knowledge)      |    3  |   1  |   0   | 2 (Int) |               |     N     |
 | [Knowledge (religion)](http://www.d20pfsrd.com/skills/knowledge)    |    0  |   0  |   0   | 2 (Int) |               |     N     |
 | [Linguistics](http://www.d20pfsrd.com/skills/linguistics)           |    0  |   0  |   0   | 2 (Int) |               |     N     |
-| [Perception](http://www.d20pfsrd.com/skills/perception)             |    5  |   1  |   0   | 2 (Wis) | +2 (Halfling) |     Y     |
+| [Perception](http://www.d20pfsrd.com/skills/perception)             |    6  |   2  |   0   | 2 (Wis) | +2 (Halfling) |     Y     |
 | [Perform](http://www.d20pfsrd.com/skills/perform)                   |    2  |   0  |   0   | 2 (Cha) |               |     Y     |
 | [Profession](http://www.d20pfsrd.com/skills/profession)             |    0  |   0  |   3   | 2 (Wis) |               |     N     |
 | [Ride](http://www.d20pfsrd.com/skills/ride)                         |    7  |   0  |   3   | 4 (Dex) |               |     Y     |
@@ -114,7 +114,7 @@
 | [Spellcraft](http://www.d20pfsrd.com/skills/spellcraft)             |    2  |   0  |   0   | 2 (Int) |               |     Y     |
 | [Stealth](http://www.d20pfsrd.com/skills/stealth)                   |   10  |   2  |   0   | 4 (Dex) | +4 (Halfling) |     Y     |
 | [Survival](http://www.d20pfsrd.com/skills/survival)                 |    2  |   0  |   0   | 2 (Wis) |               |     Y     |
-| [Swim](http://www.d20pfsrd.com/skills/swim)                         |    3  |   0  |   3   | 0 (Str) |               |     Y     |
+| [Swim](http://www.d20pfsrd.com/skills/swim)                         |    4  |   0  |   3   | 1 (Str) |               |     Y     |
 | [Use Magic Device](http://www.d20pfsrd.com/skills/use-magic-device) |    0  |   0  |   0   | 2 (Cha) |               |     N     |
 
 
@@ -142,6 +142,12 @@ None
 - +4 AC against attacks of opportunity when moving out of or within a threatened area.
 - A condition that makes you lose your Dexterity bonus to Armor Class (if any) also makes you lose dodge bonuses.
 - Dodge bonuses stack with each other, unlike most types of bonuses.
+
+### [Sprint Attack](https://www.aonprd.com/FeatDisplay.aspx?ItemName=Spring%20Attack)
+
+- As a full-round action, you can move up to your speed and make a single melee attack without provoking any attacks of opportunity from the target of your attack.
+- You can move both before and after the attack, but you must move at least 10 feet before the attack and the total distance that you move cannot be greater than your speed.
+- You cannot use this ability to attack a foe that is adjacent to you at the start of your turn.
 
 ## Racial Traits
 
@@ -205,3 +211,7 @@ Rolled 4D6, removing the worst die.
 ### Level 3
 
 - HP: 7 + 4 (Con) = 11
+
+### Level 4
+
+- HP: 9 + 4 (Con) = 13
