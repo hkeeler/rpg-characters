@@ -17,12 +17,12 @@
 
 ## Stats
 
-|       |         |
-|-------|---------|
-| XP    | 0       |
-| HP    | 93      |
-| Money | 0 GP    |
-| Hero  | 0       |
+|       |          |
+|-------|----------|
+| XP    | ?        |
+| HP    | 93       |
+| Money | 1,500 GP |
+| Hero  | 0        |
 
 ## Abilities
 
@@ -146,7 +146,7 @@ None
 - A condition that makes you lose your Dexterity bonus to Armor Class (if any) also makes you lose dodge bonuses.
 - Dodge bonuses stack with each other, unlike most types of bonuses.
 
-### [Sprint Attack](https://www.aonprd.com/FeatDisplay.aspx?ItemName=Spring%20Attack)
+### [Spring Attack](https://www.aonprd.com/FeatDisplay.aspx?ItemName=Spring%20Attack)
 
 - As a full-round action, you can move up to your speed and make a single melee attack without provoking any attacks of opportunity from the target of your attack.
 - You can move both before and after the attack, but you must move at least 10 feet before the attack and the total distance that you move cannot be greater than your speed.
