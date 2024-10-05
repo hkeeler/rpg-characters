@@ -21,7 +21,7 @@
 |-------|----------|
 | XP    | ?        |
 | HP    | 93       |
-| Money | 1,500 GP |
+| Money | 300 GP   |
 | Hero  | 0        |
 
 ## Abilities
@@ -242,6 +242,7 @@ You can use the Weapon Finesse feat to apply your Dexterity modifier instead of 
 
 - **Elixir of Fire Breath:** This strange bubbling elixir bestows upon the drinker the ability to spit gouts of flame. He can breathe fire up to three times, each time dealing 4d6 points of fire damage to a single target up to 25 feet away. The target can attempt a DC 13 Reflex save for half damage. Unused blasts of fire dissipate 1 hour after the liquid is consumed. 
 - **Horn of Fog:** This small bugle allows its possessor to blow forth a thick cloud of heavy fog similar to that of an obscuring mist spell. The fog covers a 10-foot square next to the horn blower each round that the user continues to blow the horn; a fog cloud travels 10 feet each round in a straight line from the emanation point unless blocked by something substantial such as a wall. The device makes a deep, foghorn-like noise, with the note dropping abruptly to a lower register at the end of each blast. The fog dissipates after 3 minutes. A moderate wind (11+ mph) disperses the fog in 4 rounds; a strong wind (21+ mph) disperses the fog in 1 round. 
+- **Healing Potion, Greater:** 6d8+20 HP
 
 ## Character History
 
