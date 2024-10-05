@@ -8,8 +8,8 @@
 | Race        | Halfling                                                |
 | Class/Level | Fighter: 1                                              |
 | Alignment   | N                                                       |
-| Deity       | []() |
-| Languages   | Common, Halfling, Goblin, Gnome                         |
+| Deity       | ???                                                     |
+| Languages   | Common, Halfling, Goblin, Elven                         |
 | Size        | Medium                                                  |
 | Age         | 42 (When we started)                                    |
 | Height      | 3'6"                                                    |
@@ -20,7 +20,7 @@
 |       |         |
 |-------|---------|
 | XP    | 0       |
-| HP    | 25      |
+| HP    | 36      |
 | Money | 0 GP    |
 | Hero  | 0       |
 
@@ -41,13 +41,15 @@
 | Speed      |   20  | 20 (Halfling)                 |
 | Initiative |   +4  | +4 (Dex)                      |
 
+- +4 AC against attacks of opportunity when moving out of or within a threatened area.
+
 ## Saves
 
 |            | Score | Base | Bonus    | Other         |
 |------------|-------|------|----------|---------------|
 | Fortitude  |    7  |   3  | +4 (Con) | +1 (Halfling) |
-| Reflex     |    5  |   0  | +4 (Dex) | +1 (Halfling) |
-| Will       |    3  |   0  | +2 (Wis) | +1 (Halfling) |
+| Reflex     |    6  |   1  | +4 (Dex) | +1 (Halfling) |
+| Will       |    4  |   1  | +2 (Wis) | +1 (Halfling) |
 
 * +2 Against Fear (Halfling)
 * +1 Against Fear (Fighter)
@@ -57,12 +59,12 @@
 
 | Type                | Score              | Base | Bonuses                 |
 |---------------------|--------------------|------|-------------------------|
-| Melee (light)       | +7                 | +2   | +4 (Dex) + 1 (Halfling) |
+| Melee (light)       | +8                 | +3   | +4 (Dex) + 1 (Halfling) |
 
 
 | Weapon              | Bonus   | Dmg  | Crit  |
 |---------------------|---------|------|-------|
-| Elven Curve Blade   | +7      | 1D8  | 18-20 |
+| Elven Curve Blade   | +8      | 1D8  | 18-20 |
 
 - See: [Elven Curve Blade](https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Elven%20curve%20blade)
 
@@ -71,17 +73,17 @@
 
 |     | Score | Details                                           | Notes                                                                             |
 |-----|-------|---------------------------------------------------|-----------------------------------------------------------------------------------|
-| CMB |    6  | 2 (base atk) + 4 (Dex*) - 1 (Small)               | [Agile Maneuvers](https://aonprd.com/FeatDisplay.aspx?ItemName=Agile%20Maneuvers) |
-| CMD |   14  | 10 + 2 (base atk) + 0 (Str) + 4 (Dex) - 1 (Small) |                                                                                   |
+| CMB |    7  | 3 (base atk) + 4 (Dex*) - 1 (Small)               | [Agile Maneuvers](https://aonprd.com/FeatDisplay.aspx?ItemName=Agile%20Maneuvers) |
+| CMD |   16  | 10 + 3 (base atk) + 0 (Str) + 4 (Dex) - 1 (Small) |                                                                                   |
 
 
 ## Skills
 
 | Skill                                                               | Total | Rank | Class | Ability | Special       | Untrained |
 |---------------------------------------------------------------------|-------|------|-------|---------|---------------|-----------|
-| [Acrobatics](http://www.d20pfsrd.com/skills/acrobatics)             |    6  |   0  |   2   | 4 (Dex) | +2 (Halfling) |     Y     |
+| [Acrobatics](http://www.d20pfsrd.com/skills/acrobatics)             |    6  |   3  |   0   | 4 (Dex) | +2 (Halfling) |     Y     |
 | [Appraise](http://www.d20pfsrd.com/skills/appraise)                 |    2  |   0  |   0   | 2 (Int) |               |     Y     |
-| [Bluff](http://www.d20pfsrd.com/skills/bluff)                       |    2  |   0  |   2   | 2 (Cha) |               |     Y     |
+| [Bluff](http://www.d20pfsrd.com/skills/bluff)                       |    2  |   3  |   0   | 2 (Cha) |               |     Y     |
 | [Climb](http://www.d20pfsrd.com/skills/climb)                       |    5  |   0  |   3   | 0 (Str) | +2 (Halfling) |     Y     |
 | [Craft](http://www.d20pfsrd.com/skills/craft)                       |    5  |   0  |   3   | 2 (Int) |               |     Y     |
 | [Diplomacy](http://www.d20pfsrd.com/skills/diplomacy)               |    2  |   0  |   0   | 2 (Cha) |               |     Y     |
@@ -110,13 +112,15 @@
 | [Sense Motive](http://www.d20pfsrd.com/skills/sense-motive)         |    2  |   0  |   0   | 2 (Wis) |               |     Y     |
 | [Sleight of Hand](http://www.d20pfsrd.com/skills/sleight-of-hand)   |    0  |   0  |   0   | 4 (Dex) |               |     N     |
 | [Spellcraft](http://www.d20pfsrd.com/skills/spellcraft)             |    2  |   0  |   0   | 2 (Int) |               |     Y     |
-| [Stealth](http://www.d20pfsrd.com/skills/stealth)                   |    8  |   0  |   0   | 4 (Dex) | +4 (Halfling) |     Y     |
+| [Stealth](http://www.d20pfsrd.com/skills/stealth)                   |   10  |   2  |   0   | 4 (Dex) | +4 (Halfling) |     Y     |
 | [Survival](http://www.d20pfsrd.com/skills/survival)                 |    2  |   0  |   0   | 2 (Wis) |               |     Y     |
 | [Swim](http://www.d20pfsrd.com/skills/swim)                         |    3  |   0  |   3   | 0 (Str) |               |     Y     |
 | [Use Magic Device](http://www.d20pfsrd.com/skills/use-magic-device) |    0  |   0  |   0   | 2 (Cha) |               |     N     |
 
 
 ### Skill Unlocks
+
+None
 
 ## Feats
 
@@ -133,6 +137,12 @@
 
 - +1 AC
 
+### [Mobility](https://www.aonprd.com/FeatDisplay.aspx?ItemName=Mobility)
+
+- +4 AC against attacks of opportunity when moving out of or within a threatened area.
+- A condition that makes you lose your Dexterity bonus to Armor Class (if any) also makes you lose dodge bonuses.
+- Dodge bonuses stack with each other, unlike most types of bonuses.
+
 ## Racial Traits
 
 - **Abilities:** +2 DEX, +2 CHA, -2 STR
@@ -142,7 +152,6 @@
 - **Halfling Luck:** +1 Saving Throws
 - **Keen Senses:** +2 Perception
 - **Sure-Footed:** +2 Acrobatics, +2 Climb
-
 
 
 ## Class Features - [Fighter](https://aonprd.com/ClassDisplay.aspx?ItemName=Fighter)
@@ -157,6 +166,14 @@
 
 - +1 bonus on Will saves against fear.
 - This bonus increases by +1 for every four levels beyond 2nd.
+
+
+### Armor Training
+
+- Reduces the armor check penalty by 1 (to a minimum of 0)
+- Increases the max Dex bonus allowed by his armor by 1.
+- Every four levels thereafter (7th, 11th, and 15th), these bonuses increase by +1 each time, to a maximum –4 reduction of the armor check penalty and a +4 increase of the maximum Dexterity bonus allowed.
+- Move at normal speed in medium armor. At 7th level, move at normal speed in heavy armor.
 
 ## Items
 
@@ -182,5 +199,9 @@ Rolled 4D6, removing the worst die.
 - CHA: 4,2,6,2 => 12 + 2 (Halfling) => 14
     
 ### Level 2
+
+- HP: 7 + 4 (Con) = 11
+
+### Level 3
 
 - HP: 7 + 4 (Con) = 11
