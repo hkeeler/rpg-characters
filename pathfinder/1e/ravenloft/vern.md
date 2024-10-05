@@ -64,7 +64,7 @@
 
 | Weapon                             | Bonus   | Dmg                                    | Crit   |
 |------------------------------------|---------|----------------------------------------|--------|
-| +2 Elven Curve Blade of Thundering | +16/+11 | 1D8 +1 (Str) +2 (Weapon) +1 (Training) | 15-20* |
+| +2 Elven Curve Blade of Thundering | +17/+12 | 1D8 +1 (Str) +2 (Weapon) +1 (Training) | 15-20* |
 
 - See: [Elven Curve Blade](https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Elven%20curve%20blade)
 - Improved Critical feat
