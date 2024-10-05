@@ -108,7 +108,7 @@
 | [Knowledge (planes)](http://www.d20pfsrd.com/skills/knowledge)      |    6  |   2  |   0   | 2 (Int) |                          |     N     |
 | [Knowledge (religion)](http://www.d20pfsrd.com/skills/knowledge)    |    0  |   0  |   0   | 2 (Int) |                          |     N     |
 | [Linguistics](http://www.d20pfsrd.com/skills/linguistics)           |    0  |   0  |   0   | 2 (Int) |                          |     N     |
-| [Perception](http://www.d20pfsrd.com/skills/perception)             |   10  |   8  |   0   | 2 (Wis) | +2 (Halfling)            |     Y     |
+| [Perception](http://www.d20pfsrd.com/skills/perception)             |   12  |   8  |   0   | 2 (Wis) | +2 (Halfling)            |     Y     |
 | [Perform](http://www.d20pfsrd.com/skills/perform)                   |    2  |   0  |   0   | 2 (Cha) |                          |     Y     |
 | [Profession](http://www.d20pfsrd.com/skills/profession)             |    0  |   0  |   3   | 2 (Wis) |                          |     N     |
 | [Ride](http://www.d20pfsrd.com/skills/ride)                         |    3  |   0  |   3   | 4 (Dex) | -4 (Armor)               |     Y     |
