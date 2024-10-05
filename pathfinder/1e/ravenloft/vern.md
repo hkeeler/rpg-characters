@@ -76,7 +76,7 @@
 |     | Score | Details                                           | Notes                                                                             |
 |-----|-------|---------------------------------------------------|-----------------------------------------------------------------------------------|
 | CMB |   11  | 8 (base atk) + 4 (Dex*) - 1 (Small)               | [Agile Maneuvers](https://aonprd.com/FeatDisplay.aspx?ItemName=Agile%20Maneuvers) |
-| CMD |   18  | 10 + 4 (base atk) + 1 (Str) + 4 (Dex) - 1 (Small) |                                                                                   |
+| CMD |   22  | 10 + 8 (base atk) + 1 (Str) + 4 (Dex) - 1 (Small) |                                                                                   |
 
 **TODO:** Adjust these for Full Plate and Armor Training
 
