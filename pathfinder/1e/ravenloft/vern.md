@@ -35,11 +35,11 @@
 | WIS |  14   |   +2  |
 | CHA |  14   |   +2  |
 
-|            | Score | Details                                   |
-|------------|-------|-------------------------------------------|
-| AC         |   26  | 10 (Base) +4 (Dex) +1 (Dodge) +11 (Armor) |
-| Speed      |   20  | 20 (Halfling)                             |
-| Initiative |   +4  | +4 (Dex)                                  |
+|            | Score | Details                                              |
+|------------|-------|------------------------------------------------------|
+| AC         |   25  | 10 (Base) +4 (Dex) +1 (Dodge) +11 (Armor) -1 (Armor) |
+| Speed      |   20  | 20 (Halfling)                                        |
+| Initiative |   +4  | +4 (Dex)                                             |
 
 - +4 AC against attacks of opportunity when moving out of or within a threatened area.
 
@@ -74,52 +74,51 @@
 
 |     | Score | Details                                           | Notes                                                                             |
 |-----|-------|---------------------------------------------------|-----------------------------------------------------------------------------------|
-| CMB |    8  | 4 (base atk) + 4 (Dex*) - 1 (Small)               | [Agile Maneuvers](https://aonprd.com/FeatDisplay.aspx?ItemName=Agile%20Maneuvers) |
+| CMB |   11  | 8 (base atk) + 4 (Dex*) - 1 (Small)               | [Agile Maneuvers](https://aonprd.com/FeatDisplay.aspx?ItemName=Agile%20Maneuvers) |
 | CMD |   18  | 10 + 4 (base atk) + 1 (Str) + 4 (Dex) - 1 (Small) |                                                                                   |
 
 **TODO:** Adjust these for Full Plate and Armor Training
 
 ## Skills
 
-| Skill                                                               | Total | Rank | Class | Ability | Special       | Untrained |
-|---------------------------------------------------------------------|-------|------|-------|---------|---------------|-----------|
-| [Acrobatics](http://www.d20pfsrd.com/skills/acrobatics)             |   10  |   4  |   0   | 4 (Dex) | +2 (Halfling) |     Y     |
-| [Appraise](http://www.d20pfsrd.com/skills/appraise)                 |    2  |   0  |   0   | 2 (Int) |               |     Y     |
-| [Bluff](http://www.d20pfsrd.com/skills/bluff)                       |   10  |   8  |   0   | 2 (Cha) |               |     Y     |
-| [Climb](http://www.d20pfsrd.com/skills/climb)                       |    8  |   0  |   3   | 1 (Str) | +2 (Halfling) |     Y     |
-| [Craft](http://www.d20pfsrd.com/skills/craft)                       |    5  |   0  |   3   | 2 (Int) |               |     Y     |
-| [Diplomacy](http://www.d20pfsrd.com/skills/diplomacy)               |    2  |   0  |   0   | 2 (Cha) |               |     Y     |
-| [Disable Device](http://www.d20pfsrd.com/skills/disable-device)     |    0  |   0  |   0   | 4 (Dex) |               |     N     |
-| [Disguise](http://www.d20pfsrd.com/skills/disguise)                 |    2  |   0  |   0   | 2 (Cha) |               |     Y     |
-| [Escape Artist](http://www.d20pfsrd.com/skills/escape-artist)       |    4  |   0  |   0   | 4 (Dex) |               |     Y     |
-| [Fly](http://www.d20pfsrd.com/skills/fly)                           |    0  |   0  |   0   | 4 (Dex) |               |     N     |
-| [Handle Animal](http://www.d20pfsrd.com/skills/handle-animal)       |    0  |   0  |   3   | 2 (Cha) |               |     N     |
-| [Heal](http://www.d20pfsrd.com/skills/heal)                         |    5  |   0  |   3   | 2 (Wis) |               |     Y     |
-| [Intimidate](http://www.d20pfsrd.com/skills/intimidate)             |    5  |   0  |   3   | 2 (Cha) |               |     Y     |
-| [Knowledge (arcana)](http://www.d20pfsrd.com/skills/knowledge)      |    0  |   0  |   0   | 2 (Int) |               |     N     |
-| [Knowledge (dungeon)](http://www.d20pfsrd.com/skills/knowledge)     |    5  |   0  |   3   | 2 (Int) |               |     N     |
-| [Knowledge (engineer)](http://www.d20pfsrd.com/skills/knowledge)    |    0  |   0  |   0   | 2 (Int) |               |     N     |
-| [Knowledge (geography)](http://www.d20pfsrd.com/skills/knowledge)   |    0  |   0  |   0   | 2 (Int) |               |     N     |
-| [Knowledge (history)](http://www.d20pfsrd.com/skills/knowledge)     |    4  |   2  |   0   | 2 (Int) |               |     N     |
-| [Knowledge (local)](http://www.d20pfsrd.com/skills/knowledge)       |    4  |   2  |   0   | 2 (Int) |               |     N     |
-| [Knowledge (nature)](http://www.d20pfsrd.com/skills/knowledge)      |    0  |   0  |   0   | 2 (Int) |               |     N     |
-| [Knowledge (nobility)](http://www.d20pfsrd.com/skills/knowledge)    |    0  |   0  |   0   | 2 (Int) |               |     N     |
-| [Knowledge (planes)](http://www.d20pfsrd.com/skills/knowledge)      |    6  |   2  |   0   | 2 (Int) |               |     N     |
-| [Knowledge (religion)](http://www.d20pfsrd.com/skills/knowledge)    |    0  |   0  |   0   | 2 (Int) |               |     N     |
-| [Linguistics](http://www.d20pfsrd.com/skills/linguistics)           |    0  |   0  |   0   | 2 (Int) |               |     N     |
-| [Perception](http://www.d20pfsrd.com/skills/perception)             |   10  |   8  |   0   | 2 (Wis) | +2 (Halfling) |     Y     |
-| [Perform](http://www.d20pfsrd.com/skills/perform)                   |    2  |   0  |   0   | 2 (Cha) |               |     Y     |
-| [Profession](http://www.d20pfsrd.com/skills/profession)             |    0  |   0  |   3   | 2 (Wis) |               |     N     |
-| [Ride](http://www.d20pfsrd.com/skills/ride)                         |    7  |   0  |   3   | 4 (Dex) |               |     Y     |
-| [Sense Motive](http://www.d20pfsrd.com/skills/sense-motive)         |    2  |   0  |   0   | 2 (Wis) |               |     Y     |
-| [Sleight of Hand](http://www.d20pfsrd.com/skills/sleight-of-hand)   |    0  |   0  |   0   | 4 (Dex) |               |     N     |
-| [Spellcraft](http://www.d20pfsrd.com/skills/spellcraft)             |    2  |   0  |   0   | 2 (Int) |               |     Y     |
-| [Stealth](http://www.d20pfsrd.com/skills/stealth)                   |   12  |   6  |   0   | 4 (Dex) | +4 (Halfling) |     Y     |
-| [Survival](http://www.d20pfsrd.com/skills/survival)                 |    2  |   0  |   0   | 2 (Wis) |               |     Y     |
-| [Swim](http://www.d20pfsrd.com/skills/swim)                         |    4  |   0  |   3   | 1 (Str) |               |     Y     |
-| [Use Magic Device](http://www.d20pfsrd.com/skills/use-magic-device) |    0  |   0  |   0   | 2 (Cha) |               |     N     |
+| Skill                                                               | Total | Rank | Class | Ability | Special                  | Untrained |
+|---------------------------------------------------------------------|-------|------|-------|---------|--------------------------|-----------|
+| [Acrobatics](http://www.d20pfsrd.com/skills/acrobatics)             |    6  |   4  |   0   | 4 (Dex) | +2 (Halfling) -4 (Armor) |     Y     |
+| [Appraise](http://www.d20pfsrd.com/skills/appraise)                 |    2  |   0  |   0   | 2 (Int) |                          |     Y     |
+| [Bluff](http://www.d20pfsrd.com/skills/bluff)                       |   10  |   8  |   0   | 2 (Cha) |                          |     Y     |
+| [Climb](http://www.d20pfsrd.com/skills/climb)                       |    8  |   0  |   3   | 1 (Str) | +2 (Halfling)            |     Y     |
+| [Craft](http://www.d20pfsrd.com/skills/craft)                       |    5  |   0  |   3   | 2 (Int) |                          |     Y     |
+| [Diplomacy](http://www.d20pfsrd.com/skills/diplomacy)               |    2  |   0  |   0   | 2 (Cha) |                          |     Y     |
+| [Disable Device](http://www.d20pfsrd.com/skills/disable-device)     |    0  |   0  |   0   | 4 (Dex) | -4 (Armor)               |     N     |
+| [Disguise](http://www.d20pfsrd.com/skills/disguise)                 |    2  |   0  |   0   | 2 (Cha) |                          |     Y     |
+| [Escape Artist](http://www.d20pfsrd.com/skills/escape-artist)       |    5  |   0  |   0   | 4 (Dex) | -4 (Armor) +5 (Slick)    |     Y     |
+| [Fly](http://www.d20pfsrd.com/skills/fly)                           |    0  |   0  |   0   | 4 (Dex) | -4 (Armor)               |     N     |
+| [Handle Animal](http://www.d20pfsrd.com/skills/handle-animal)       |    0  |   0  |   3   | 2 (Cha) |                          |     N     |
+| [Heal](http://www.d20pfsrd.com/skills/heal)                         |    5  |   0  |   3   | 2 (Wis) |                          |     Y     |
+| [Intimidate](http://www.d20pfsrd.com/skills/intimidate)             |    5  |   0  |   3   | 2 (Cha) |                          |     Y     |
+| [Knowledge (arcana)](http://www.d20pfsrd.com/skills/knowledge)      |    0  |   0  |   0   | 2 (Int) |                          |     N     |
+| [Knowledge (dungeon)](http://www.d20pfsrd.com/skills/knowledge)     |    5  |   0  |   3   | 2 (Int) |                          |     N     |
+| [Knowledge (engineer)](http://www.d20pfsrd.com/skills/knowledge)    |    0  |   0  |   0   | 2 (Int) |                          |     N     |
+| [Knowledge (geography)](http://www.d20pfsrd.com/skills/knowledge)   |    0  |   0  |   0   | 2 (Int) |                          |     N     |
+| [Knowledge (history)](http://www.d20pfsrd.com/skills/knowledge)     |    4  |   2  |   0   | 2 (Int) |                          |     N     |
+| [Knowledge (local)](http://www.d20pfsrd.com/skills/knowledge)       |    4  |   2  |   0   | 2 (Int) |                          |     N     |
+| [Knowledge (nature)](http://www.d20pfsrd.com/skills/knowledge)      |    0  |   0  |   0   | 2 (Int) |                          |     N     |
+| [Knowledge (nobility)](http://www.d20pfsrd.com/skills/knowledge)    |    0  |   0  |   0   | 2 (Int) |                          |     N     |
+| [Knowledge (planes)](http://www.d20pfsrd.com/skills/knowledge)      |    6  |   2  |   0   | 2 (Int) |                          |     N     |
+| [Knowledge (religion)](http://www.d20pfsrd.com/skills/knowledge)    |    0  |   0  |   0   | 2 (Int) |                          |     N     |
+| [Linguistics](http://www.d20pfsrd.com/skills/linguistics)           |    0  |   0  |   0   | 2 (Int) |                          |     N     |
+| [Perception](http://www.d20pfsrd.com/skills/perception)             |   10  |   8  |   0   | 2 (Wis) | +2 (Halfling)            |     Y     |
+| [Perform](http://www.d20pfsrd.com/skills/perform)                   |    2  |   0  |   0   | 2 (Cha) |                          |     Y     |
+| [Profession](http://www.d20pfsrd.com/skills/profession)             |    0  |   0  |   3   | 2 (Wis) |                          |     N     |
+| [Ride](http://www.d20pfsrd.com/skills/ride)                         |    3  |   0  |   3   | 4 (Dex) | -4 (Armor)               |     Y     |
+| [Sense Motive](http://www.d20pfsrd.com/skills/sense-motive)         |    2  |   0  |   0   | 2 (Wis) |                          |     Y     |
+| [Sleight of Hand](http://www.d20pfsrd.com/skills/sleight-of-hand)   |    0  |   0  |   0   | 4 (Dex) | -4 (Armor)               |     N     |
+| [Spellcraft](http://www.d20pfsrd.com/skills/spellcraft)             |    2  |   0  |   0   | 2 (Int) |                          |     Y     |
+| [Stealth](http://www.d20pfsrd.com/skills/stealth)                   |    8  |   6  |   0   | 4 (Dex) | +4 (Halfling)            |     Y     |
+| [Survival](http://www.d20pfsrd.com/skills/survival)                 |    2  |   0  |   0   | 2 (Wis) |                          |     Y     |
+| [Swim](http://www.d20pfsrd.com/skills/swim)                         |    4  |   0  |   3   | 1 (Str) |                          |     Y     |
+| [Use Magic Device](http://www.d20pfsrd.com/skills/use-magic-device) |    0  |   0  |   0   | 2 (Cha) |                          |     N     |
 
-**TODO:** Adjust these for Full Plate and Armor Training
 
 ### Skill Unlocks
 
