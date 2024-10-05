@@ -2,18 +2,18 @@
 
 ## Overview
 
-|             |                                                         |
-|-------------|---------------------------------------------------------|
-| Campaign    | Ravenloft                                               |
-| Race        | Halfling                                                |
-| Class/Level | Fighter: 1                                              |
-| Alignment   | N                                                       |
-| Deity       | ???                                                     |
-| Languages   | Common, Halfling, Goblin, Elven                         |
-| Size        | Medium                                                  |
-| Age         | 42 (When we started)                                    |
-| Height      | 3'6"                                                    |
-| Weight      | 120                                                     |
+|             |                                 |
+|-------------|---------------------------------|
+| Campaign    | Ravenloft                       |
+| Race        | Halfling                        |
+| Class/Level | Fighter: 1                      |
+| Alignment   | N                               |
+| Deity       | ???                             |
+| Languages   | Common, Halfling, Goblin, Elven |
+| Size        | Medium                          |
+| Age         | 42 (When we started)            |
+| Height      | 3'6"                            |
+| Weight      | 120                             |
 
 ## Stats
 
@@ -62,12 +62,13 @@
 | Melee (light)       | +13/+8 | +8/+3 | +4 (Dex) +1 (Halfling) |
 
 
-| Weapon                             | Bonus   | Dmg                     | Crit   |
-|------------------------------------|---------|-------------------------|--------|
-| +2 Elven Curve Blade of Thundering | +15/+10 | 1D8 +1 (Str) +2 (Weapon)| 15-20* |
+| Weapon                             | Bonus   | Dmg                                    | Crit   |
+|------------------------------------|---------|----------------------------------------|--------|
+| +2 Elven Curve Blade of Thundering | +16/+11 | 1D8 +1 (Str) +2 (Weapon) +1 (Training) | 15-20* |
 
 - See: [Elven Curve Blade](https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Elven%20curve%20blade)
 - Improved Critical feat
+- 1D8 Sonic on crit
 
 
 ## [Combat Maneuvers](https://www.aonprd.com/Rules.aspx?ID=188)
