@@ -115,7 +115,7 @@
 | [Sense Motive](http://www.d20pfsrd.com/skills/sense-motive)         |    2  |   0  |   0   | 2 (Wis) |                          |     Y     |
 | [Sleight of Hand](http://www.d20pfsrd.com/skills/sleight-of-hand)   |    0  |   0  |   0   | 4 (Dex) | -4 (Armor)               |     N     |
 | [Spellcraft](http://www.d20pfsrd.com/skills/spellcraft)             |    2  |   0  |   0   | 2 (Int) |                          |     Y     |
-| [Stealth](http://www.d20pfsrd.com/skills/stealth)                   |    8  |   6  |   0   | 4 (Dex) | +4 (Halfling)            |     Y     |
+| [Stealth](http://www.d20pfsrd.com/skills/stealth)                   |    4  |   6  |   0   | 4 (Dex) | +4 (Halfling) -4 (Armor) |     Y     |
 | [Survival](http://www.d20pfsrd.com/skills/survival)                 |    2  |   0  |   0   | 2 (Wis) |                          |     Y     |
 | [Swim](http://www.d20pfsrd.com/skills/swim)                         |    4  |   0  |   3   | 1 (Str) |                          |     Y     |
 | [Use Magic Device](http://www.d20pfsrd.com/skills/use-magic-device) |    0  |   0  |   0   | 2 (Cha) |                          |     N     |
