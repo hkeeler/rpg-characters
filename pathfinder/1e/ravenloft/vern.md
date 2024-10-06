@@ -221,6 +221,11 @@ None
     - Cost 1,500 gp Weight 50 lbs.
     - Armor Bonus +9; Max Dex Bonus +1; Armor Check Penalty -6
     - Arcane Spell Failure Chance 35%; Speed 20 ft./15 ft.
+    - Slick: 
+        - Coated at all times with a slightly greasy oil.
+        - +5 competence bonus on its wearer’s Escape Artist checks.
+        - The armor’s armor check penalty still applies normally.
+
 - +2 [Elven Curve Blade](https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Elven%20curve%20blade) of Thundering
     - +3 = 9,000 GP
 
@@ -231,10 +236,7 @@ None
     - Category Two-Handed; Proficiency Exotic
     - Weapon Groups Blades, Heavy
     - +3 = 18,000 GP
-    - Slick: 
-        - Coated at all times with a slightly greasy oil.
-        - +5 competence bonus on its wearer’s Escape Artist checks.
-        - The armor’s armor check penalty still applies normally.
+    - **Thundering:** A thundering weapon creates a cacophonous roar like thunder whenever it strikes a target with a successful critical hit. The sonic energy does not harm the wielder. A thundering weapon deals an extra 1d8 points of sonic damage on a successful critical hit. If the weapon’s critical multiplier is x3, add an extra 2d8 points of sonic damage instead, and if the multiplier is x4, add an extra 3d8 points of sonic damage. Subjects dealt critical hits by a thundering weapon must make a successful DC 14 Fortitude save or be deafened permanently.
 
 You can use the Weapon Finesse feat to apply your Dexterity modifier instead of your Strength modifier on attack rolls with an elven curve blade that is sized for you, even though it isn’t a light weapon.
 
