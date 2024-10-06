@@ -116,7 +116,7 @@
 | [Sense Motive](http://www.d20pfsrd.com/skills/sense-motive)         |    2  |   0  |   0   | 2 (Wis) |                          |     Y     |
 | [Sleight of Hand](http://www.d20pfsrd.com/skills/sleight-of-hand)   |    0  |   0  |   0   | 4 (Dex) | -4 (Armor)               |     N     |
 | [Spellcraft](http://www.d20pfsrd.com/skills/spellcraft)             |    2  |   0  |   0   | 2 (Int) |                          |     Y     |
-| [Stealth](http://www.d20pfsrd.com/skills/stealth)                   |    8  |   6  |   0   | 4 (Dex) | +4 (Halfling)            |     Y     |
+| [Stealth](http://www.d20pfsrd.com/skills/stealth)                   |    4  |   6  |   0   | 4 (Dex) | +4 (Halfling) -4 (Armor) |     Y     |
 | [Survival](http://www.d20pfsrd.com/skills/survival)                 |    2  |   0  |   0   | 2 (Wis) |                          |     Y     |
 | [Swim](http://www.d20pfsrd.com/skills/swim)                         |    4  |   0  |   3   | 1 (Str) |                          |     Y     |
 | [Use Magic Device](http://www.d20pfsrd.com/skills/use-magic-device) |    0  |   0  |   0   | 2 (Cha) |                          |     N     |
@@ -221,6 +221,11 @@ None
     - Cost 1,500 gp Weight 50 lbs.
     - Armor Bonus +9; Max Dex Bonus +1; Armor Check Penalty -6
     - Arcane Spell Failure Chance 35%; Speed 20 ft./15 ft.
+    - Slick: 
+        - Coated at all times with a slightly greasy oil.
+        - +5 competence bonus on its wearer’s Escape Artist checks.
+        - The armor’s armor check penalty still applies normally.
+
 - +2 [Elven Curve Blade](https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Elven%20curve%20blade) of Thundering
     - +3 = 9,000 GP
 
@@ -231,10 +236,7 @@ None
     - Category Two-Handed; Proficiency Exotic
     - Weapon Groups Blades, Heavy
     - +3 = 18,000 GP
-    - Slick: 
-        - Coated at all times with a slightly greasy oil.
-        - +5 competence bonus on its wearer’s Escape Artist checks.
-        - The armor’s armor check penalty still applies normally.
+    - **Thundering:** A thundering weapon creates a cacophonous roar like thunder whenever it strikes a target with a successful critical hit. The sonic energy does not harm the wielder. A thundering weapon deals an extra 1d8 points of sonic damage on a successful critical hit. If the weapon’s critical multiplier is x3, add an extra 2d8 points of sonic damage instead, and if the multiplier is x4, add an extra 3d8 points of sonic damage. Subjects dealt critical hits by a thundering weapon must make a successful DC 14 Fortitude save or be deafened permanently.
 
 You can use the Weapon Finesse feat to apply your Dexterity modifier instead of your Strength modifier on attack rolls with an elven curve blade that is sized for you, even though it isn’t a light weapon.
 
@@ -243,7 +245,9 @@ You can use the Weapon Finesse feat to apply your Dexterity modifier instead of 
 - **Elixir of Fire Breath:** This strange bubbling elixir bestows upon the drinker the ability to spit gouts of flame. He can breathe fire up to three times, each time dealing 4d6 points of fire damage to a single target up to 25 feet away. The target can attempt a DC 13 Reflex save for half damage. Unused blasts of fire dissipate 1 hour after the liquid is consumed. 
 - **Horn of Fog:** This small bugle allows its possessor to blow forth a thick cloud of heavy fog similar to that of an obscuring mist spell. The fog covers a 10-foot square next to the horn blower each round that the user continues to blow the horn; a fog cloud travels 10 feet each round in a straight line from the emanation point unless blocked by something substantial such as a wall. The device makes a deep, foghorn-like noise, with the note dropping abruptly to a lower register at the end of each blast. The fog dissipates after 3 minutes. A moderate wind (11+ mph) disperses the fog in 4 rounds; a strong wind (21+ mph) disperses the fog in 1 round. 
 - **Healing Potion, Greater:** 6d8+20 HP
-    - **qty:** 2
+    - **qty:** 1
+- **Healing Potion, Moderate:** 2D8 + 3
+    - **qty:** 1
 
 ## Character History
 
