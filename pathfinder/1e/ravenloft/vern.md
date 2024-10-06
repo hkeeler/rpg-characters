@@ -20,8 +20,9 @@
 |       |          |
 |-------|----------|
 | XP    | ?        |
-| HP    | 93       |
-| Money | 300 GP   |
+| HP    | 72 / 99  |
+| Level | 9        |
+| Money | 429 GP   |
 | Hero  | 0        |
 
 ## Abilities
@@ -48,8 +49,8 @@
 |            | Score | Base | Bonus    | Other         |
 |------------|-------|------|----------|---------------|
 | Fortitude  |   11  |   6  | +4 (Con) | +1 (Halfling) |
-| Reflex     |    7  |   2  | +4 (Dex) | +1 (Halfling) |
-| Will       |    5  |   2  | +2 (Wis) | +1 (Halfling) |
+| Reflex     |    8  |   3  | +4 (Dex) | +1 (Halfling) |
+| Will       |    6  |   3  | +2 (Wis) | +1 (Halfling) |
 
 * +2 Against Fear (Halfling)
 * +2 Against Fear (Fighter)
@@ -59,12 +60,12 @@
 
 | Type                | Score  | Base  | Bonuses                |
 |---------------------|--------|-------|------------------------|
-| Melee (light)       | +13/+8 | +8/+3 | +4 (Dex) +1 (Halfling) |
+| Melee (light)       | +14/+9 | +9/+4 | +4 (Dex) +1 (Halfling) |
 
 
 | Weapon                             | Bonus   | Dmg                                    | Crit   |
 |------------------------------------|---------|----------------------------------------|--------|
-| +2 Elven Curve Blade of Thundering | +17/+12 | 1D8 +1 (Str) +2 (Weapon) +1 (Training) | 15-20* |
+| +2 Elven Curve Blade of Thundering | +19/+14 | 1D8 +1 (Str) +2 (Weapon) +2 (Training) | 15-20* |
 
 - See: [Elven Curve Blade](https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Elven%20curve%20blade)
 - Improved Critical feat
@@ -73,10 +74,10 @@
 
 ## [Combat Maneuvers](https://www.aonprd.com/Rules.aspx?ID=188)
 
-|     | Score | Details                                           | Notes                                                                             |
-|-----|-------|---------------------------------------------------|-----------------------------------------------------------------------------------|
-| CMB |   11  | 8 (base atk) + 4 (Dex*) - 1 (Small)               | [Agile Maneuvers](https://aonprd.com/FeatDisplay.aspx?ItemName=Agile%20Maneuvers) |
-| CMD |   22  | 10 + 8 (base atk) + 1 (Str) + 4 (Dex) - 1 (Small) |                                                                                   |
+|     | Score | Details                                                       | Notes                                                                             |
+|-----|-------|---------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| CMB |   14  | 9 (base atk) + 4 (Dex*) - 1 (Small) +2 (Training              | [Agile Maneuvers](https://aonprd.com/FeatDisplay.aspx?ItemName=Agile%20Maneuvers) |
+| CMD |   25  | 10 + 9 (base atk) + 1 (Str) + 4 (Dex) - 1 (Small) +2 Training |                                                                                   |
 
 **TODO:** Adjust these for Full Plate and Armor Training
 
@@ -86,13 +87,13 @@
 |---------------------------------------------------------------------|-------|------|-------|---------|--------------------------|-----------|
 | [Acrobatics](http://www.d20pfsrd.com/skills/acrobatics)             |    6  |   4  |   0   | 4 (Dex) | +2 (Halfling) -4 (Armor) |     Y     |
 | [Appraise](http://www.d20pfsrd.com/skills/appraise)                 |    2  |   0  |   0   | 2 (Int) |                          |     Y     |
-| [Bluff](http://www.d20pfsrd.com/skills/bluff)                       |   10  |   8  |   0   | 2 (Cha) |                          |     Y     |
+| [Bluff](http://www.d20pfsrd.com/skills/bluff)                       |   11  |   9  |   0   | 2 (Cha) |                          |     Y     |
 | [Climb](http://www.d20pfsrd.com/skills/climb)                       |    8  |   0  |   3   | 1 (Str) | +2 (Halfling)            |     Y     |
 | [Craft](http://www.d20pfsrd.com/skills/craft)                       |    5  |   0  |   3   | 2 (Int) |                          |     Y     |
 | [Diplomacy](http://www.d20pfsrd.com/skills/diplomacy)               |    2  |   0  |   0   | 2 (Cha) |                          |     Y     |
 | [Disable Device](http://www.d20pfsrd.com/skills/disable-device)     |    0  |   0  |   0   | 4 (Dex) | -4 (Armor)               |     N     |
 | [Disguise](http://www.d20pfsrd.com/skills/disguise)                 |    2  |   0  |   0   | 2 (Cha) |                          |     Y     |
-| [Escape Artist](http://www.d20pfsrd.com/skills/escape-artist)       |    5  |   0  |   0   | 4 (Dex) | -4 (Armor) +5 (Slick)    |     Y     |
+| [Escape Artist](http://www.d20pfsrd.com/skills/escape-artist)       |    8  |   3  |   0   | 4 (Dex) | -4 (Armor) +5 (Slick)    |     Y     |
 | [Fly](http://www.d20pfsrd.com/skills/fly)                           |    0  |   0  |   0   | 4 (Dex) | -4 (Armor)               |     N     |
 | [Handle Animal](http://www.d20pfsrd.com/skills/handle-animal)       |    0  |   0  |   3   | 2 (Cha) |                          |     N     |
 | [Heal](http://www.d20pfsrd.com/skills/heal)                         |    5  |   0  |   3   | 2 (Wis) |                          |     Y     |
@@ -168,9 +169,9 @@ None
 
 - You can make a Bluff check to feint in combat as a move action.
 
-### [Improved Critical](https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Critical)
+### [Improved Feint](https://aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Feint)
 
-- When using the weapon you selected, your threat range is doubled.
+- Whenever you feint, opponent loses Dex bonus until the beginning of your next turn.
 
 ## Racial Traits
 
@@ -190,12 +191,10 @@ None
 - At 1st level, and at every even level thereafter, a fighter gains a bonus feat in addition to those gained from normal advancement
 - These bonus feats must be selected from those listed as combat feats.
 
-
 ### Bravery
 
 - +1 bonus on Will saves against fear.
 - This bonus increases by +1 for every four levels beyond 2nd.
-
 
 ### Armor Training
 
@@ -210,6 +209,7 @@ None
 - Every four levels thereafter (9th, 13th, and 17th), a fighter becomes further trained in another group of weapons.
 - Adds this bonus to combat maneuver checks made with this weapon group.
 - This bonus also applies to the fighter's Combat Maneuver Defense when defending against disarm and sunder attempts made against weapons from this group.
+
 
 ## Items
 
@@ -285,3 +285,7 @@ Rolled 4D6, removing the worst die.
 ### Level 8
 
 - HP: 9 + 4 (Con) = 13 => 93
+
+### Level 9
+
+- HP: 2 + 4 (Con) = 6 => 99
