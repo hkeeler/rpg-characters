@@ -39,7 +39,7 @@
 
 |            | Score | Details                                              |
 |------------|-------|------------------------------------------------------|
-| AC         |   26  | 10 (Base) + 4 (Dex) + 5 (Wis) + 5* (Monk) + 2 (Ring) |
+| AC         |   27  | 10 (Base) + 4 (Dex) + 5 (Wis) + 5* (Monk) + 3 (Ring) |
 | Speed      |   90  | 30 (Human) + 50 (Monk) +10 (Travel Domain)           |
 | Initiative |   +4  | +4 (Dex)                                             |
 
@@ -338,7 +338,7 @@ Touch creature to learn its abilities and weaknesses
     - Dmg +5 Monk Levels
     - +1 Stunning attack
 - Ring of Protection (18,000 gp)
-    - +2 AC
+    - +3 AC
 - Ultimate Athleticism Belt (3,600 gp)
     - Skills: Acrobatics, Climb, Jump, Swim
     - Take 10 Under Stress
