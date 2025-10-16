@@ -1,0 +1,10 @@
+theme: midnight
+title: My Awesome GitHub Pages Site
+description: This is a description of my site.
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  toc_levels: 1..3
