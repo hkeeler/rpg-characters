@@ -30,7 +30,7 @@
 | WIS |  12   |  +1   | **+5** | **Proficient** (+4) |
 | CHA |  10   |  +0   |   +0   | —                   |
 
-> #### Save bonuses
+> ### Save bonuses
 > - +2 on all saves while concentrating (Durable Magic)
 > - +2 **failed** saves; next turn you can cast **cantrips only**.
  
@@ -42,7 +42,7 @@
 | Profiency  |   +4  | Level 10                                                                 |
 | Passive    |   15  | 10 (base) + 1 (WIS) + 4 Proficient                                       |
 
->#### AC bonuses
+>### AC bonuses
 > - +2 AC Mage Armor
 > - +2 AC while concentrating
 > - +5 Shield (reaction)
@@ -64,23 +64,23 @@
 | Arcana           | INT |  +9  |   ●   | Wizard   |
 | Athletics        | STR |  –1  |   ○   |          |
 | Deception        | CHA |  +4  |   ●   | Criminal |
-| History          | INT |  +9  |   ○   |          |
+| History          | INT |  +5  |   ○   |          |
 | Insight          | WIS |  +1  |   ○   |          |
 | Intimidation     | CHA |  +0  |   ○   |          |
 | Investigation    | INT |  +9  |   ●   | Wizard   |
 | Medicine         | WIS |  +1  |   ○   |          |
-| Nature           | INT |  +9  |   ○   |          |
+| Nature           | INT |  +5  |   ○   |          |
 | Perception       | WIS |  +5  |   ●   | Human    |
 | Performance      | CHA |  +0  |   ○   |          |
 | Persuasion       | CHA |  +0  |   ○   |          |
-| Religion         | INT |  +9  |   ○   |          |
+| Religion         | INT |  +5  |   ○   |          |
 | Sleight of Hand  | DEX |  +2  |   ○   |          |
 | Stealth          | DEX |  +6  |   ●   | Criminal |
 | Survival         | WIS |  +1  |   ○   |          |
 
 **Tools:** Thieves’ Tools; Gaming Set (cards or dice)
 
-## Feats & ASIs
+## Feats
 
 - **Alert** (Variant Human bonus feat at 1): +5 Initiative; can’t be surprised while conscious.  
 - **ASI (4):** +2 INT (to 18)  
