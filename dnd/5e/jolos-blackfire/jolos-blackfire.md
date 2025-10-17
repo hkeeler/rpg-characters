@@ -105,11 +105,11 @@
 **Slots:** 1st **4** • 2nd **3** • 3rd **3** • 4th **3** • 5th **2**
 
 ### Cantrips (5)
-- [**Fire Bolt**](https://5e.d20srd.org/srd/spells/fireBolt.htm) — Ranged spell attack; 2d10 fire at your level; can ignite unattended objects.  
-- [**Minor Illusion**](https://5e.d20srd.org/srd/spells/minorIllusion.htm) — Create a sound or 5-ft image; investigation reveals it.  
-- [**Mage Hand**](https://5e.d20srd.org/srd/spells/mageHand.htm) — Spectral hand manipulates/opens/lightly interacts.  
-- [**Ray of Frost**](https://5e.d20srd.org/srd/spells/rayOfFrost.htm) — Ranged spell attack; 2d8 cold; target’s speed −10 ft until your next turn.  
-- [**Prestidigitation**](https://5e.d20srd.org/srd/spells/prestidigitation.htm) — Harmless tricks: clean/soil, flavor, spark a flame, mark a surface, etc.
+- [**Fire Bolt**](../../../dnd5e-markdown/compendium/spells/fire-bolt.md) — Ranged spell attack; 2d10 fire at your level; can ignite unattended objects.  
+- [**Minor Illusion**](../../../dnd5e-markdown/compendium/spells/minor-illusion.md) — Create a sound or 5-ft image; investigation reveals it.  
+- [**Mage Hand**](../../../dnd5e-markdown/compendium/spells/mage-hand.md) — Spectral hand manipulates/opens/lightly interacts.  
+- [**Ray of Frost**](../../../dnd5e-markdown/compendium/spells/ray-of-frost.md) — Ranged spell attack; 2d8 cold; target’s speed −10 ft until your next turn.  
+- [**Prestidigitation**](../../../dnd5e-markdown/compendium/spells/prestidigitation.md) — Harmless tricks: clean/soil, flavor, spark a flame, mark a surface, etc.
 
 ### 1st-level (4 slots)
 - [**Shield**](https://5e.d20srd.org/srd/spells/shield.htm) — **Reaction** when hit or by *magic missile*; AC +5 until your next turn; negates *magic missile*.  
