@@ -8,5 +8,5 @@ Collection of TTRPG Characters
 - [Vern](pathfinder/1e/characters/ravenloft/vern.md) (Ravenloft)
 
 ### D&D 5E
-- [Jonos Blackfire](dnd/5e/jolos-blackfire/jolos-blackfire.md)
+- [Jonos Blackfire](dnd/5e/characters/jonos-blackfire/jonos-blackfire.md)
 - [Ulv](dnd/5e/characters/ulv/ulv.md)
