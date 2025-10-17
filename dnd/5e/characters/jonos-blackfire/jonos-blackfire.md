@@ -5,9 +5,9 @@
 |             |                         |
 |-------------|-------------------------|
 | Campaign    | —                       |
-| Race        | Human (Variant)**       |
-| Class/Level | Wizard (War Magic): 10  |
-| Background  | Criminal/Spy**          |
+| Race        | Human                   |
+| Class/Level | War Magic Wizard: 10    |
+| Background  | Criminal/Spy            |
 | Alignment   | True Neutral            |
 | Languages   | Common, Infernal        |
 | Size        | Medium                  |
@@ -82,9 +82,12 @@
 
 ## Feats
 
-- **Alert** (Variant Human bonus feat at 1): +5 Initiative; can’t be surprised while conscious.  
+### Alert
+- +5 Initiative
+- Can’t be surprised while conscious
 
 ## Class Features - War Magic Wizard
+
 ### Arcane Deflection
 When you are hit by an attack or you fail a saving throw, you can use your reaction to gain a +2 bonus to your AC against that attack or a +4 bonus to that saving throw.
 
