@@ -97,6 +97,18 @@
 
 **Background — Criminal/Spy:** Stealth, Deception, **Criminal Contact**; Thieves’ Tools; Gaming Set.
 
+## Equipment
+
+**On Character**
+- Spellbook; arcane focus/component pouch; scholar’s pack; thieves’ tools; dark common clothes w/ hood; gaming set; crowbar  
+- **Ring of Spell Storing (rare)** — Preload **Shield**, **Absorb Elements**, **Misty Step**, etc.  
+- **Cloak of Protection (uncommon)** — +1 AC & +1 to all saves
+- **TODO:** Don't we get another uncommon item?
+
+**Other**
+- Potions of healing
+- **TODO:** Add items
+
 ---
 
 ## Spellcasting
@@ -114,57 +126,37 @@
 ### 1st-level (4 slots)
 - [**Shield**](https://5e.d20srd.org/srd/spells/shield.htm) — **Reaction** when hit or by *magic missile*; AC +5 until your next turn; negates *magic missile*.  
 - **Absorb Elements** — **Reaction** to elemental damage; gain resistance to that instance; next melee hit +1d6 of that type.  
-- [**Mage Armor**](https://5e.d20srd.org/srd/spells/mageArmor.htm) — Unarmored target’s AC becomes 13 + DEX for 8 hours.  
-- [**Grease**](https://5e.d20srd.org/srd/spells/grease.htm) — 10-ft square; difficult terrain; creatures save or fall prone.  
-- [**Detect Magic**](https://5e.d20srd.org/srd/spells/detectMagic.htm) *(ritual)* — Sense magic auras within 30 ft; learn schools.  
-- [**Find Familiar**](https://5e.d20srd.org/srd/spells/findFamiliar.htm) *(ritual)* — Spirit familiar; can deliver your touch spells, scout, and aid.
+- [**Mage Armor**](../../../dnd5e-markdown/compendium/spells/mage-armor.md) — Unarmored target’s AC becomes 13 + DEX for 8 hours.  
+- [**Grease**](../../../dnd5e-markdown/compendium/spells/grease.md) — 10-ft square; difficult terrain; creatures save or fall prone.  
+- [**Detect Magic**](../../../dnd5e-markdown/compendium/spells/detect-magic.md) *(ritual)* — Sense magic auras within 30 ft; learn schools.  
+- [**Find Familiar**](../../../dnd5e-markdown/compendium/spells/find-familiar.md) *(ritual)* — Spirit familiar; can deliver your touch spells, scout, and aid.
 
 ### 2nd-level (3 slots)
-- [**Misty Step**](https://5e.d20srd.org/srd/spells/mistyStep.htm) — **Bonus action** teleport 30 ft to a spot you can see.  
-- [**Mirror Image**](https://5e.d20srd.org/srd/spells/mirrorImage.htm) — Create 3 duplicates that misdirect attacks (no concentration).  
-- [**Invisibility**](https://5e.d20srd.org/srd/spells/invisibility.htm) — Target becomes invisible; ends on attack or spell.  
-- [**Hold Person**](https://5e.d20srd.org/srd/spells/holdPerson.htm) — Humanoid WIS save or **paralyzed**; saves at end of turns.  
-- [**Web**](https://5e.d20srd.org/srd/spells/web.htm) — 20-ft cube of webs; restrained on failed DEX; flammable.  
-- [**Levitate**](https://5e.d20srd.org/srd/spells/levitate.htm) — Raise a creature/object 20 ft and hold/scoot it up or down.
+- [**Misty Step**](../../../dnd5e-markdown/compendium/spells/misty-step.md) — **Bonus action** teleport 30 ft to a spot you can see.  
+- [**Mirror Image**](../../../dnd5e-markdown/compendium/spells/mirror-image.md) — Create 3 duplicates that misdirect attacks (no concentration).  
+- [**Invisibility**](../../../dnd5e-markdown/compendium/spells/invisibility.md) — Target becomes invisible; ends on attack or spell.  
+- [**Hold Person**](../../../dnd5e-markdown/compendium/spells/hold-person.md) — Humanoid WIS save or **paralyzed**; saves at end of turns.  
+- [**Web**](../../../dnd5e-markdown/compendium/spells/web.md) — 20-ft cube of webs; restrained on failed DEX; flammable.  
+- [**Levitate**](../../../dnd5e-markdown/compendium/spells/levitate.md) — Raise a creature/object 20 ft and hold/scoot it up or down.
 
 ### 3rd-level (3 slots)
-- [**Counterspell**](https://5e.d20srd.org/srd/spells/counterspell.htm) — **Reaction** to stop a spell; 3rd or lower auto; higher needs an INT check.  
-- [**Hypnotic Pattern**](https://5e.d20srd.org/srd/spells/hypnoticPattern.htm) — 30-ft cube; WIS save or charmed **and** incapacitated; breaks on damage/shake.  
-- [**Dispel Magic**](https://5e.d20srd.org/srd/spells/dispelMagic.htm) — End a spell effect; 3rd or lower auto; higher needs an INT check.  
-- [**Fly**](https://5e.d20srd.org/srd/spells/fly.htm) — Target gains 60-ft fly speed; upcast to affect more.
+- [**Counterspell**](../../../dnd5e-markdown/compendium/spells/counterspell.md) — **Reaction** to stop a spell; 3rd or lower auto; higher needs an INT check.  
+- [**Hypnotic Pattern**](../../../dnd5e-markdown/compendium/spells/hypnotic-pattern.md) — 30-ft cube; WIS save or charmed **and** incapacitated; breaks on damage/shake.  
+- [**Dispel Magic**](../../../dnd5e-markdown/compendium/spells/dispel-magic.md) — End a spell effect; 3rd or lower auto; higher needs an INT check.  
+- [**Fly**](../../../dnd5e-markdown/compendium/spells/fly.md) — Target gains 60-ft fly speed; upcast to affect more.
 
 ### 4th-level (3 slots)
-- [**Greater Invisibility**](https://5e.d20srd.org/srd/spells/greaterInvisibility.htm) — Target stays invisible even while attacking or casting.  
-- [**Banishment**](https://5e.d20srd.org/srd/spells/banishment.htm) — CHA save or banished; extraplanar targets stay gone if you finish the duration.  
-- [**Dimension Door**](https://5e.d20srd.org/srd/spells/dimensionDoor.htm) — Teleport self and one carried ally/object up to 500 ft.  
-- [**Polymorph**](https://5e.d20srd.org/srd/spells/polymorph.htm) — Transform a creature into a beast form (CR ≤ level); reverts at 0 HP.
+- [**Greater Invisibility**](../../../dnd5e-markdown/compendium/spells/greater-invisibility.md) — Target stays invisible even while attacking or casting.  
+- [**Banishment**](../../../dnd5e-markdown/compendium/spells/banishment.md) — CHA save or banished; extraplanar targets stay gone if you finish the duration.  
+- [**Dimension Door**](../../../dnd5e-markdown/compendium/spells/dimension-door.md) — Teleport self and one carried ally/object up to 500 ft.  
+- [**Polymorph**](../../../dnd5e-markdown/compendium/spells/polymorph.md) — Transform a creature into a beast form (CR ≤ level); reverts at 0 HP.
 
 ### 5th-level (2 slots)
-- [**Wall of Force**](https://5e.d20srd.org/srd/spells/wallOfForce.htm) — Invisible force barrier (various shapes); immune to damage; only *disintegrate* destroys.  
-- [**Animate Objects**](https://5e.d20srd.org/srd/spells/animateObjects.htm) — Up to 10 objects become creatures you command (bonus action); best DPR as **10 Tiny** (10 attacks, +8 to hit, 1d4+4 each).  
-- [**Hold Monster**](https://5e.d20srd.org/srd/spells/holdMonster.htm) — Any creature WIS save or **paralyzed**; saves at end of turns.  
-- [**Arcane Hand** *(Bigby’s Hand)*](https://5e.d20srd.org/srd/spells/arcaneHand.htm) — Create a Large force hand; bonus-action shove, restrain, interpose, or punch (force damage).
+- [**Wall of Force**](../../../dnd5e-markdown/compendium/spells/wall-of-force.md) — Invisible force barrier (various shapes); immune to damage; only *disintegrate* destroys.  
+- [**Animate Objects**](../../../dnd5e-markdown/compendium/spells/animate-objects.md) — Up to 10 objects become creatures you command (bonus action); best DPR as **10 Tiny** (10 attacks, +8 to hit, 1d4+4 each).  
+- [**Hold Monster**](../../../dnd5e-markdown/compendium/spells/hold-monster.md) — Any creature WIS save or **paralyzed**; saves at end of turns.  
+- [**Bigby's Hand**](../../../dnd5e-markdown/compendium/spells/bigbys-hand.md) — Create a Large force hand; bonus-action shove, restrain, interpose, or punch (force damage).
 
-**Typical Prepared (15, PvP/FFA):**  
-[Shield](https://5e.d20srd.org/srd/spells/shield.htm), Absorb Elements, [Mage Armor](https://5e.d20srd.org/srd/spells/mageArmor.htm), [Misty Step](https://5e.d20srd.org/srd/spells/mistyStep.htm), [Mirror Image](https://5e.d20srd.org/srd/spells/mirrorImage.htm), [Invisibility](https://5e.d20srd.org/srd/spells/invisibility.htm), [Web](https://5e.d20srd.org/srd/spells/web.htm), [Counterspell](https://5e.d20srd.org/srd/spells/counterspell.htm), [Dispel Magic](https://5e.d20srd.org/srd/spells/dispelMagic.htm), [Hypnotic Pattern](https://5e.d20srd.org/srd/spells/hypnoticPattern.htm), [Fly](https://5e.d20srd.org/srd/spells/fly.htm), [Greater Invisibility](https://5e.d20srd.org/srd/spells/greaterInvisibility.htm), [Banishment](https://5e.d20srd.org/srd/spells/banishment.htm), [Wall of Force](https://5e.d20srd.org/srd/spells/wallOfForce.htm), [Animate Objects](https://5e.d20srd.org/srd/spells/animateObjects.htm)
-
----
-
-## Tactics (PvP/FFA)
-
-- **Pre-fight:** *Mage Armor*; *Find Familiar* (owl) if allowed.  
-- **Round 1:** Usually win init.  
-  - **Casters cluster:** *Wall of Force* a section and hold **Counterspell**.  
-  - **Going to be focused:** *Greater Invisibility* and kite.  
-  - **Big scrum:** *Hypnotic Pattern* from cover.
-
-### Animate Objects — Finisher Plan
-- **Default swarm:** **10 Tiny** → **10 attacks/round**, **+8 to hit**, **1d4+4** each.  
-- **Focus fire order:** “All of you: attack **that** target.” They obey until you change the order.  
-- **DPR guide (no adv):** vs AC 16 ≈ **42 DPR**; AC 18 ≈ **36**; AC 20 ≈ **29**.  
-- **Spread vs AoE:** Don’t clump; stagger pairs.  
-- **Body-block:** Surround to trap and force OAs.  
-- **War Wizard synergy:** **Durable Magic** (+2 AC/saves) while concentrating; **Arcane Deflection** to salvage failed Con saves (cantrip-only next turn is fine—the swarm still attacks).
 
 ---
 
@@ -185,14 +177,4 @@
 
 > Average HP option: use 4 instead of each roll after level 1 before adding CON.
 
----
 
-## Equipment & Magic Items
-
-**On Character**
-- Spellbook; arcane focus/component pouch; scholar’s pack; thieves’ tools; dark common clothes w/ hood; gaming set; crowbar  
-- **Ring of Spell Storing (rare)** — Preload **Shield**, **Absorb Elements**, **Misty Step**, etc.  
-- **Cloak of Protection (uncommon)** — +1 AC & +1 to all saves
-
-**Other**
-- Potions of healing, antitoxin, ball bearings/caltrops, chalk/flour, rope & grappling hook, lantern & oil, mirrors, spare darts/bolts/coins (targets for *Animate Objects*).
