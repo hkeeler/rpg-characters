@@ -21,16 +21,17 @@
 
 ## Abilities
 
-|     | Score | Bonus | Saves  | Prof. |
-|-----|-------|-------|--------|-------|
-| STR |   8   |  –1   |   –1   |   ○   |
-| DEX |  14   |  +2   |   +2   |   ○   |
-| CON |  14   |  +2   |   +2   |   ○   |
-| INT |  20   |  +5   | **+9** |   ●   |
-| WIS |  12   |  +1   | **+5** |   ●   |
-| CHA |  10   |  +0   |   +0   |   ○   |
+|     | Score | Bonus | Saves   | Prof. |
+|-----|-------|-------|---------|-------|
+| STR |   8   |  –1   |   -1    |   ○   |
+| DEX |  14   |  +2   |   +2    |   ○   |
+| CON |  14   |  +2   |   +2    |   ○   |
+| INT |  20   |  +5   | **+9**  |   ●   |
+| WIS |  12   |  +1   | **+5**  |   ●   |
+| CHA |  10   |  +0   |   +0    |   ○   |
 
 > ### Save bonuses
+> - +1 on all saves and ability checks from Luckstone
 > - +2 on all saves while concentrating (Durable Magic)
 > - +2 **failed** saves; next turn you can cast **cantrips only**.
  
@@ -57,26 +58,26 @@
 
 ## Skills
 
-| Skill            | Ab. | Tot. | Prof. | Notes    |
-|------------------|-----|------|-------|----------|
-| Acrobatics       | DEX |  +2  |   ○   |          |
-| Animal Handling  | WIS |  +1  |   ○   |          |
-| Arcana           | INT |  +9  |   ●   | Wizard   |
-| Athletics        | STR |  –1  |   ○   |          |
-| Deception        | CHA |  +4  |   ●   | Criminal |
-| History          | INT |  +5  |   ○   |          |
-| Insight          | WIS |  +1  |   ○   |          |
-| Intimidation     | CHA |  +0  |   ○   |          |
-| Investigation    | INT |  +9  |   ●   | Wizard   |
-| Medicine         | WIS |  +1  |   ○   |          |
-| Nature           | INT |  +5  |   ○   |          |
-| Perception       | WIS |  +5  |   ●   | Human    |
-| Performance      | CHA |  +0  |   ○   |          |
-| Persuasion       | CHA |  +0  |   ○   |          |
-| Religion         | INT |  +5  |   ○   |          |
-| Sleight of Hand  | DEX |  +2  |   ○   |          |
-| Stealth          | DEX |  +6  |   ●   | Criminal |
-| Survival         | WIS |  +1  |   ○   |          |
+| Skill            | Ab. | Tot.  | Prof. | Notes    |
+|------------------|-----|-------|-------|----------|
+| Acrobatics       | DEX |  +3   |   ○   |          |
+| Animal Handling  | WIS |  +2   |   ○   |          |
+| Arcana           | INT |  +10  |   ●   | Wizard   |
+| Athletics        | STR |  +0   |   ○   |          |
+| Deception        | CHA |  +5   |   ●   | Criminal |
+| History          | INT |  +6   |   ○   |          |
+| Insight          | WIS |  +2   |   ○   |          |
+| Intimidation     | CHA |  +1   |   ○   |          |
+| Investigation    | INT |  +10  |   ●   | Wizard   |
+| Medicine         | WIS |  +2   |   ○   |          |
+| Nature           | INT |  +6   |   ○   |          |
+| Perception       | WIS |  +6   |   ●   | Human    |
+| Performance      | CHA |  +1   |   ○   |          |
+| Persuasion       | CHA |  +1   |   ○   |          |
+| Religion         | INT |  +6   |   ○   |          |
+| Sleight of Hand  | DEX |  +3   |   ○   |          |
+| Stealth          | DEX |  +7   |   ●   | Criminal |
+| Survival         | WIS |  +2   |   ○   |          |
 
 **Tools:** Thieves’ Tools; Gaming Set (cards or dice)
 
@@ -122,7 +123,9 @@ While you maintain **Concentration** on a spell, you have a **+2 bonus to AC and
 | Gaming set (cards or dice)                                                                | For downtime & games                         |
 | Crowbar                                                                                   | Pry open doors, chests, etc.                 |
 | [Ring of Spell Storing](https://www.dndbeyond.com/magic-items/4730-ring-of-spell-storing) | Preloaded spells                             |
-| [Cloak of Protection](https://www.dndbeyond.com/magic-items/4607-cloak-of-protection)     | +1 AC and +1 to all saving throws            |
+| [Cloak of Displacement](https://www.dndbeyond.com/magic-items/4605-cloak-of-displacement) | Disadvantage: Attack Rolls Against You       |
+| [Luckstone](https://www.dndbeyond.com/magic-items/4773-stone-of-good-luck-luckstone)      | +1 Ability Checks and Saves.                 |
+| Goggles of the night                                                                      | -                                            |
 | Thieves’ tools                                                                            | Lockpicking and trap-disarm tools            |
 | Potions of Healing                                                                        | Count / details TBD                          |
 | Miscellaneous items                                                                       | Other gear and treasure (5,000 gp carried)   |
