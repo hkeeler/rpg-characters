@@ -168,8 +168,11 @@ While you maintain **Concentration** on a spell, you have a **+2 bonus to AC and
 ### 3rd-level (3 slots)
 - [**Counterspell**](../../resources/spells/counterspell.md) — **Reaction** to stop a spell; 3rd or lower auto; higher needs an INT check.  
 - [**Hypnotic Pattern**](../../resources/spells/hypnotic-pattern.md) — 30-ft cube; WIS save or charmed **and** incapacitated; breaks on damage/shake.  
-- [**Dispel Magic**](../../resources/spells/dispel-magic.md) — End a spell effect; 3rd or lower auto; higher needs an INT check.  
-- [**Fly**](../../resources/spells/fly.md) — Target gains 60-ft fly speed; upcast to affect more.
+#- [**Dispel Magic**](../../resources/spells/dispel-magic.md) — End a spell effect; 3rd or lower auto; higher needs an INT check.  
+#- [**Fly**](../../resources/spells/fly.md) — Target gains 60-ft fly speed; upcast to affect more.
+- [**Fireball**](../../resources/spells/fireball.md) - 
+- [**Lightning**](../../resources/spells/lightning-bolt.md) - 
+
 
 ### 4th-level (3 slots)
 - [**Greater Invisibility**](../../resources/spells/greater-invisibility.md) — Target stays invisible even while attacking or casting.  
@@ -182,7 +185,6 @@ While you maintain **Concentration** on a spell, you have a **+2 bonus to AC and
 - [**Animate Objects**](../../resources/spells/animate-objects.md) — Up to 10 objects become creatures you command (bonus action); best DPR as **10 Tiny** (10 attacks, +8 to hit, 1d4+4 each).  
 - [**Hold Monster**](../../resources/spells/hold-monster.md) — Any creature WIS save or **paralyzed**; saves at end of turns.  
 - [**Bigby's Hand**](../../resources/spells/bigbys-hand.md) — Create a Large force hand; bonus-action shove, restrain, interpose, or punch (force damage).
-
 
 ---
 
