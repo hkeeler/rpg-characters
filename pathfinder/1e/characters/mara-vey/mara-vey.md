@@ -120,7 +120,6 @@ Hex Save DC: **20**
 10 + 4 (1/2 Witch level) + 6 (Int)
 
 ### Evil Eye (1st Level)
-
 - Standard action.
 - Target within 30 ft.
 - Will save reduces duration to 1 round.
@@ -130,12 +129,10 @@ Hex Save DC: **20**
 - Can be extended by **Cackle**.
 
 ### Cackle (2nd Level)
-
 - Move action.
 - Extends **Evil Eye**, **Fortune**, and **Misfortune** by 1 round for affected creatures within range.
 
 ### Misfortune (4th Level)
-
 - Standard action.
 - Target within 30 ft.
 - Will negates.
@@ -144,7 +141,6 @@ Hex Save DC: **20**
 - **Accursed Hex** permits one immediate retry after a successful save.
 
 ### Slumber (5th Level: Extra Hex)
-
 - Standard action.
 - Target within 30 ft.
 - Will negates.
@@ -234,8 +230,7 @@ Base spell DC:
 - Divination
 - Enervation
 
-### Important 5th-Level Spells
-
+### 5th-Level Spells
 - Baleful Polymorph
 - Feeblemind
 
@@ -249,46 +244,6 @@ Useful healing potions include:
 - Cure Moderate Wounds
 
 Eligible low-level Witch spells can also be brewed for defensive buffs, condition protection, exploration, and utility.
-
-## Combat Tactics
-
-### Standard Enemy
-
-Use **Slumber**.
-
-On a successful save, use **Accursed Hex** for one additional attempt.
-
-### Dangerous Monster
-
-1. **Evil Eye — Saving Throws**
-2. **Cackle**
-3. **Misfortune**
-4. **Cackle**
-5. Cast the spell best suited to the monster's weakest defense.
-
-Possible finishers:
-
-- Baleful Polymorph
-- Bestow Curse
-- Blindness/Deafness
-- Feeblemind
-
-### Against High-Will Creatures
-
-Use alternatives such as:
-
-- Enervation
-- Black Tentacles
-- Web
-- Other battlefield control
-
-### Against Spellcasters
-
-1. Evil Eye — Saves
-2. Cackle
-3. Misfortune
-4. Cackle
-5. Feeblemind or another disabling spell
 
 ---
 

@@ -6,6 +6,7 @@ Collection of TTRPG Characters
 ### Pathfinder 1E
 - [Dorn](pathfinder/1e/characters/silver-fist/dorn/dorn.md) (Silver Fist)
 - [Vern](pathfinder/1e/characters/ravenloft/vern.md) (Ravenloft)
+- [Mara Vey](pathfinder/1e/characters/mara-vey.md)
 
 ### D&D 5E
 - [Jonos Blackfire](dnd/5e/characters/jonos-blackfire/jonos-blackfire.md)
