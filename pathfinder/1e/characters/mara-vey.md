@@ -1,0 +1,384 @@
+# Mara Vey
+
+## Overview
+
+|             |                                                 |
+|-------------|-------------------------------------------------|
+| Race        | Human                                           |
+| Class/Level | Witch: 9                                        |
+| Alignment   | CN                                              |
+| Patron      | Dendar the Night Serpent (_Maybe_)              |
+| Familiar    | Hummingbird                                     |
+| Languages   | Common, Aklo, Draconic, Elven, Infernal, Sylvan |
+| Size        | Medium                                          |
+
+## Stats
+
+|                 |          |
+|-----------------|----------|
+| HP              | 62       |
+| Hit Die         | D6       |
+| Base Attack     | +4       |
+| Hex Save DC     | 20       |
+| Caster Level    | 9        |
+| Concentration   | +15      |
+| Initiative      | +6       |
+| Speed           | 30 ft.   |
+
+## Abilities
+
+### Current Abilities
+
+|     | Score | Bonus |
+|-----|------:|------:|
+| STR | 7     | -2    |
+| DEX | 14    | +2    |
+| CON | 14    | +2    |
+| INT | 22    | +6    |
+| WIS | 11    | +0    |
+| CHA | 7     | -2    |
+
+|             | Score | Details                              |
+|-------------|------:|--------------------------------------|
+| AC          | 12    | 10 (Base) + 2 (Dex)                  |
+| Touch AC    | 12    | 10 (Base) + 2 (Dex)                  |
+| Flat-Footed | 10    | 10 (Base)                            |
+| Speed       | 30    | Human                                |
+| Initiative  | +6    | +2 (Dex) + 4 (Improved Initiative)   |
+
+## Saves
+
+|            | Score | Base | Ability |
+|------------|------:|-----:|---------|
+| Fortitude  | +5    | +3   | +2 (Con) |
+| Reflex     | +5    | +3   | +2 (Dex) |
+| Will       | +6    | +6   | +0 (Wis) |
+
+## Attacks
+
+|              | Score | Base | Ability |
+|--------------|------:|-----:|---------|
+| Melee        | +2    | +4   | -2 (Str) |
+| Ranged       | +6    | +4   | +2 (Dex) |
+| Ranged Touch | +6    | +4   | +2 (Dex) |
+
+## Combat Maneuvers
+
+|     | Score | Details                           |
+|-----|------:|-----------------------------------|
+| CMB | +2    | +4 (BAB) - 2 (Str)                |
+| CMD | 14    | 10 + 4 (BAB) - 2 (Str) + 2 (Dex) |
+
+## Skills
+
+| Skill | Total | Rank | Class | Ability | Special | Untrained |
+|-------|------:|-----:|------:|---------|---------|-----------|
+| Craft (Alchemy) | **22** | 9 | 3 | +6 (Int) | +4 (Cauldron) | Y |
+| Fly | 9 | 4 | 3 | +2 (Dex) | | N |
+| Heal | 8 | 5 | 3 | +0 (Wis) | | Y |
+| K. Arcana | 18 | 9 | 3 | +6 (Int) | | N |
+| K. Nature | 18 | 9 | 3 | +6 (Int) | | N |
+| K. Planes | 18 | 9 | 3 | +6 (Int) | | N |
+| K. Religion | 15 | 9 | 0 | +6 (Int) | | N |
+| Linguistics | 11 | 5 | 0 | +6 (Int) | | N |
+| Perception | 9 | 9 | 0 | +0 (Wis) | | Y |
+| Spellcraft | 18 | 9 | 3 | +6 (Int) | | Y |
+| Use Magic Device | 5 | 4 | 3 | -2 (Cha) | | N |
+
+## Feats
+
+### Accursed Hex (1st Level: Human Bonus)
+- If a creature successfully saves against a hex that normally cannot affect it again for 24 hours, the witch can attempt that hex against the creature one additional time before the end of her next turn.
+- Particularly useful with **Misfortune** and **Slumber**.
+
+### Improved Initiative (1st Level: Standard)
+- +4 Initiative.
+- Final Initiative: **+6**.
+
+### Spell Focus (Necromancy) (3rd Level)
+- +1 DC for saving throws against Necromancy spells.
+
+### Extra Hex (5th Level)
+- Gain one additional Witch hex.
+- Used to gain **Slumber**.
+
+### Greater Spell Focus (Necromancy) (7th Level)
+- Additional +1 DC for saving throws against Necromancy spells.
+- Total bonus from Spell Focus feats: **+2 DC**.
+
+### Spell Penetration (9th Level)
+- +2 caster-level checks to overcome Spell Resistance.
+
+### Brew Potion (6th Level: Cauldron Bonus)
+- Granted as a bonus feat by the **Cauldron** hex.
+- Brew potions containing eligible spells of 3rd level or lower.
+- Craft (Alchemy): **+22**.
+
+## Hexes
+Hex Save DC: **20** 
+
+10 + 4 (1/2 Witch level) + 6 (Int)
+
+### Evil Eye (1st Level)
+
+- Standard action.
+- Target within 30 ft.
+- Will save reduces duration to 1 round.
+- Apply a penalty to AC, ability checks, attack rolls, saving throws, or skill checks.
+- Penalty at Witch 8+: **-4**.
+- Normally target **saving throws** before attempting more powerful debuffs.
+- Can be extended by **Cackle**.
+
+### Cackle (2nd Level)
+
+- Move action.
+- Extends **Evil Eye**, **Fortune**, and **Misfortune** by 1 round for affected creatures within range.
+
+### Misfortune (4th Level)
+
+- Standard action.
+- Target within 30 ft.
+- Will negates.
+- Target rolls twice and takes the worse result on ability checks, attack rolls, saving throws, and skill checks.
+- Lasts 1 round and can be extended by **Cackle**.
+- **Accursed Hex** permits one immediate retry after a successful save.
+
+### Slumber (5th Level: Extra Hex)
+
+- Standard action.
+- Target within 30 ft.
+- Will negates.
+- Target falls asleep for **9 rounds**.
+- No Hit Dice limitation.
+- **Accursed Hex** allows a second attempt after a successful save.
+
+### Cauldron (6th Level)
+- Gain **Brew Potion** as a bonus feat.
+- +4 insight bonus on **Craft (Alchemy)** checks.
+- Craft (Alchemy): **+22**.
+
+### Fortune (8th Level)
+- Standard action.
+- Ally can roll twice and take the better result on one ability check, attack roll, saving throw, or skill check per round.
+- Can be extended with **Cackle**.
+
+## Patron
+
+### Portents
+
+| Witch Level | Patron Spell |
+|------------:|--------------|
+| 2           | Ill Omen |
+| 4           | Locate Object |
+| 6           | Blood Biography |
+| 8           | Divination |
+| 10          | Contact Other Plane |
+| 12          | Legend Lore |
+| 14          | Vision |
+| 16          | Moment of Prescience |
+| 18          | Foresight |
+
+## Familiar
+
+### Hummingbird
+- Flight
+- Scouting
+- Speech
+- High mobility
+- Delivering messages
+- Observing dangerous areas remotely
+
+## Spellcasting
+
+### Spell Save DCs
+
+Base spell DC:
+
+**10 + spell level + 6 (Int)**
+
+| Spell Level | DC | Necromancy DC |
+|------------:|---:|--------------:|
+| 0           | 16 | 18 |
+| 1           | 17 | 19 |
+| 2           | 18 | 20 |
+| 3           | 19 | 21 |
+| 4           | 20 | 22 |
+| 5           | 21 | 23 |
+
+### 1st-Level Spells
+- Cure Light Wounds
+- Ill Omen
+- Mage Armor
+- Protection from Evil
+- Ray of Enfeeblement
+- Unseen Servant
+
+### 2nd-Level Spells
+- Blindness/Deafness
+- Cure Moderate Wounds
+- False Life
+- Glitterdust
+- Locate Object
+- Web
+
+### 3rd-Level Spells
+- Bestow Curse
+- Blood Biography
+- Dispel Magic
+- Fly
+- Stinking Cloud
+
+### 4th-Level Spells
+- Black Tentacles
+- Dimension Door
+- Divination
+- Enervation
+
+### Important 5th-Level Spells
+
+- Baleful Polymorph
+- Feeblemind
+
+## Potion Brewing
+
+The **Cauldron** hex makes potion brewing Mara's secondary healing and utility method.
+
+Useful healing potions include:
+
+- Cure Light Wounds
+- Cure Moderate Wounds
+
+Eligible low-level Witch spells can also be brewed for defensive buffs, condition protection, exploration, and utility.
+
+## Combat Tactics
+
+### Standard Enemy
+
+Use **Slumber**.
+
+On a successful save, use **Accursed Hex** for one additional attempt.
+
+### Dangerous Monster
+
+1. **Evil Eye — Saving Throws**
+2. **Cackle**
+3. **Misfortune**
+4. **Cackle**
+5. Cast the spell best suited to the monster's weakest defense.
+
+Possible finishers:
+
+- Baleful Polymorph
+- Bestow Curse
+- Blindness/Deafness
+- Feeblemind
+
+### Against High-Will Creatures
+
+Use alternatives such as:
+
+- Enervation
+- Black Tentacles
+- Web
+- Other battlefield control
+
+### Against Spellcasters
+
+1. Evil Eye — Saves
+2. Cackle
+3. Misfortune
+4. Cackle
+5. Feeblemind or another disabling spell
+
+---
+
+## Character Advancement
+
+### Initial Point Buy
+
+20-point buy before racial bonuses or level increases.
+
+|     | Score | Cost |
+|-----|------:|-----:|
+| STR | 7     | -4   |
+| DEX | 14    | 5    |
+| CON | 14    | 5    |
+| INT | 18    | 17   |
+| WIS | 11    | 1    |
+| CHA | 7     | -4   |
+|     |       | **20** |
+
+
+### Hit Points
+
+Favored class bonus is taken as **+1 HP at every level**.
+
+| Level | Roll  | CON | Favored Class | HP Gained | Total |
+|------:|------:|----:|--------------:|----------:|------:|
+| 1     | 6     | +2  | +1            | 9         | 9     |
+| 2     | 2     | +2  | +1            | 5         | 14    |
+| 3     | 6     | +2  | +1            | 9         | 23    |
+| 4     | 2     | +2  | +1            | 5         | 28    |
+| 5     | 5     | +2  | +1            | 8         | 36    |
+| 6     | 1     | +2  | +1            | 4         | 40    |
+| 7     | 3     | +2  | +1            | 6         | 46    |
+| 8     | 4     | +2  | +1            | 7         | 53    |
+| 9     | 6     | +2  | +1            | 9         | 62    |
+
+
+### Ability Advancement
+
+| Level | Change                  |
+|------:|-------------------------|
+| 1     | Human: INT +2 (18 → 20) |
+| 4     | INT +1 (20 → 21)        |
+| 8     | INT +1 (21 → 22)        |
+
+
+
+### Level 1 — Witch 1
+- Human ability bonus: **INT +2**
+- Starting INT: **20**
+- Hex: **Evil Eye**
+- Feat: **Improved Initiative**
+- Human Bonus Feat: **Accursed Hex**
+- 1st-level Witch spells
+
+### Level 2 — Witch 2
+- Hex: **Cackle**
+- Patron Spell: **Ill Omen**
+
+### Level 3 — Witch 3
+- Feat: **Spell Focus (Necromancy)**
+- 2nd-level Witch spells
+
+### Level 4 — Witch 4
+- Ability Increase: **INT 20 → 21**
+- Hex: **Misfortune**
+- Patron Spell: **Locate Object**
+
+### Level 5 — Witch 5
+- Feat: **Extra Hex**
+- Extra Hex: **Slumber**
+- 3rd-level Witch spells
+
+### Level 6 — Witch 6
+- Hex: **Cauldron**
+- Bonus Feat: **Brew Potion**
+- Patron Spell: **Blood Biography**
+
+### Level 7 — Witch 7
+- Feat: **Greater Spell Focus (Necromancy)**
+- 4th-level Witch spells
+
+### Level 8 — Witch 8
+- Ability Increase: **INT 21 → 22**
+  - INT Modifier: **+6**
+- Hex: **Fortune**
+- Evil Eye improves to **-4**
+- Patron Spell: **Divination**
+
+### Level 9 — Witch 9
+- Feat: **Spell Penetration**
+- 5th-level Witch spells
+- Hex DC: **20**
