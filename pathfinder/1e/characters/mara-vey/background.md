@@ -70,7 +70,7 @@ Most Rashemi never leave the realm after the dajemma of their
 youth, a year-long journey wherein youthful Rashemi become adults
 and see the world. Age, experience, and accomplishment determine
 rank within the Witches (the age of most Vremyonni placing them
-high among the Wychlaran, the Witches' name for themselves), and
+high among the [Wychlaran](https://forgottenrealms.fandom.com/wiki/Wychlaran), the Witches' name for themselves), and
 then in the same order within all native Rashemi who cannot work
 magic, with outlanders ranked at the bottom.
 
