@@ -10,8 +10,8 @@
 
 Rashemen is a cold, rugged land, populated by hardy and fiercely
 independent people. Its men are berserkers, disdaining armor and
-fighting with axe, spear, sword, and bow. Its women wield power-
-ful magic tied to the land, training those with magical potential
+fighting with axe, spear, sword, and bow. Its women wield powerful
+magic tied to the land, training those with magical potential
 to serve the land and the Rashemi race. Although Rashemen is
 ostensibly ruled by a powerful warrior called the Iron Lord, the
 true powers behind the throne are the Witches, who choose the
@@ -19,20 +19,19 @@ Iron Lord.
 
 The land is full of nature spirits, any of which can turn jealous
 or vindictive against those who offend them. Rashemi laws are
-simple and based on honor, and they disdain the trappings of civi-
-lization. The people are devoted to the warrior ideal, competing in
-athletic contests and other harsh physical activities such as swim-
-ming in near-freezing rivers. These challenges keep them strong,
+simple and based on honor, and they disdain the trappings of civilization.
+The people are devoted to the warrior ideal, competing in
+athletic contests and other harsh physical activities such as swimming
+in near-freezing rivers. These challenges keep them strong,
 for weakness would doom them to death at the claws of the land's
 many monsters.
 
 ### Life and Society
-Faerun knows Rashemen as the Land of Berserkers, a cold, alpine-
-and-rock land of fierce warriors ruled by masked Witches. Colorful
+Faerun knows Rashemen as the Land of Berserkers, a cold, alpine-and-rock
+land of fierce warriors ruled by masked Witches. Colorful
 tales tell of the Witches' cruelty—but such stories stray far from
 the truth. The Witches rule with absolute authority, sternly and
-firmly, but they hate cruelty, having repeatedly tasted it at Thay-
-an hands.
+firmly, but they hate cruelty, having repeatedly tasted it at Thayan hands.
 
 Rashemi warriors are fur-clad or leather-armored pony riders.
 Showing cowardice or incompetence at arms results in shunning.
@@ -44,8 +43,8 @@ air, animating to fight by themselves while their owners cast
 spells.
 
 The armies of Rashemen are commanded by the Huhrong, or
-Iron Lord, who is expected to be the epitome of the Rashemi war-
-rior. He is chosen by vote of the Witches, during a secret meeting
+Iron Lord, who is expected to be the epitome of the Rashemi warrior.
+He is chosen by vote of the Witches, during a secret meeting
 at which any Witch may propose any person as Huhrong. The Iron
 Lord is expected to rule wisely, keeping order rather than deciding
 policy. It's his task to keep travel between cities safe, frontiers
@@ -57,11 +56,11 @@ Throughout the land, Witches are revered and heeded. It's certain
 death to harm a Witch, and usually death to disobey one (unless one
 is a child, another Witch, or an ignorant outlander defying the word
 of a Witch for the first time). Among themselves, Witches strive to
-understand living things and their fellow Rashemi, so that open dis-
-putes are few. Their manipulation steers folk toward agreement, and
+understand living things and their fellow Rashemi, so that open disputes
+are few. Their manipulation steers folk toward agreement, and
 the land is kept strong and united, regarding Thayans as deadly foes
-and Rashemen as sacred land to be protected and tended. All Witch-
-es are female; the few magic-wielding males in the country are
+and Rashemen as sacred land to be protected and tended. All Witches
+are female; the few magic-wielding males in the country are
 known as Vremyonni, or Old Ones, because they are preserved by
 magic to great age. Kept hidden in the Running Rocks, they devote
 themselves to crafting new spells and the magic items the Witches
@@ -130,16 +129,16 @@ the outer perimeter. Most Witches actually live in the nearby town
 of Urling.
 
 ### Important Sites
-Rashemi live close to the land, preferring unspoiled wildness to gar-
-dens, fences, and elaborate buildings. Rashemi disdain cities as "the
+Rashemi live close to the land, preferring unspoiled wildness to gardens,
+fences, and elaborate buildings. Rashemi disdain cities as "the
 wallows of those who've gone soft," and live in the countryside,
 dressing lightly even in cold weather,
 
 **Immilmar (Large City, 21,210):** This city is home to the Iron
 Lord's citadel. Crafted of iron and stone, the citadel was built with
 the aid of the Witches. The central portion of the city is built
-around the citadel, with farther-out homes more like regular Rashe-
-mi homes. The cleric of the small temple of Chauntea here makes
+around the citadel, with farther-out homes more like regular Rashemi
+homes. The cleric of the small temple of Chauntea here makes
 sure that worship of "Bhalla" doesn't stray too far from official
 doctrine.
 
@@ -149,7 +148,8 @@ crowded with traders from many lands. The two primary noble
 families, the Ydrass and Vrul, sponsor contests as friendly rivals.
 The competition has improved both families; they are accom-
 plished warriors, hunters, and artisans.
-Mulsantir (Large Town, 4,848): This town is the primary point
+
+**Mulsantir (Large Town, 4,848):** This town is the primary point
 for Thayan attack. It has been besieged at least five times but
 never fallen, due to the solid stone walls created by the Witches.
 Its large fishing fleet nets sturgeon in the nearby lake that bears
@@ -163,10 +163,10 @@ nation, aided by the Witches, who offered their protection in
 exchange for the right to select the kings and war leaders, since the
 first one in -75 DR.
 
-Rashemen has defended itself against Mulhorandi invasions, mul-
-tiple Thayan invasions, and even the Tuigan horde, surviving it all
-and holding its territory. With its traditional enemies (the Red Wiz-
-ards) pursuing other tasks, Rashemen is fortifying its southern
+Rashemen has defended itself against Mulhorandi invasions, multiple
+Thayan invasions, and even the Tuigan horde, surviving it all
+and holding its territory. With its traditional enemies (the Red Wizards)
+pursuing other tasks, Rashemen is fortifying its southern
 border in anticipation of eventual treachery.
 
 ### Plots and Rumors
@@ -201,21 +201,21 @@ also known as the Witches of Rashemen.
 Within the borders of Rashemen, their
 powers are greater than other spellcasters
 of their level. In Rashemi society, hathrans
-cccupy the place reserved for powerful cler-
-ics in most Faerunian cultures. They heal
+cccupy the place reserved for powerful clerics
+in most Faerunian cultures. They heal
 the sick and wounded, care for the souls of
 their followers, recruit champions from
 other planes, and raise the dead. Within the
-Hathran class (which means "learned sister-
-hood" in the language of Rashemen), 1st-level
+Hathran class (which means "learned sisterhood"
+in the language of Rashemen), 1st-level
 characters are called blethran ("sisterkin").
 The 9th- and 10th-level hathrans are called
 othlor ("true ones") and have complete authority over all other
-Witches. Hathrans have the power of life and death over all citi-
-zens of Rashemen, although to misuse this authority is a serious
+Witches. Hathrans have the power of life and death over all citizens
+of Rashemen, although to misuse this authority is a serious
 offense against the sisterhood. When traveling in Rashemen,
-hathrans always wear masks. Many are sent outside their home-
-land to study other cultures and keep watch on important figures,
+hathrans always wear masks. Many are sent outside their homeland
+to study other cultures and keep watch on important figures,
 
 To be a hathran requires a certain depth of knowledge in arcane
 and divine magic. Usually hathrans are cleric/wizards, but some of
@@ -253,34 +253,34 @@ leader unless he is at least a 5th-level Red Wizard.
 
 A circle requires a minimum of two participants plus the circle
 leader. Up to five participants can aid a circle leader in a standard
-circle, but a Red Wizard of 10th level can lead a great circle con-
-taining up to nine participants.
+circle, but a Red Wizard of 10th level can lead a great circle containing
+up to nine participants.
 
 All participants in a circle must stand within 10 feet of the circle
 leader, who stands in the center.
 
 ### Circle Powers
 The first use of circle magic is to empower the circle leader with the
-strength of all the participants. This requires 1 full hour of unin-
-terrupted concentration on the part of all participants and the circle
-leader. Each participant casts any single prepared spell, which is con-
-sumed by the circle and has no effect other than expending the pre-
-pared spell. The spell levels expended by the circle participants are
+strength of all the participants. This requires 1 full hour of uninterrupted
+concentration on the part of all participants and the circle
+leader. Each participant casts any single prepared spell, which is consumed
+by the circle and has no effect other than expending the prepared
+spell. The spell levels expended by the circle participants are
 totaled as circle bonus levels. Each bonus level may be used to
 accomplish the following effects:
 - Increase the circle leader's caster level by one for every bonus
-level expended (maximum caster levsl 40th).
-- Add Empower Spell, Maximize Spell, or Heighten Spell metam-
-agic feats to spells currently prepared by the circle leader. Each
-bonus level counts as one additional spell level required by the
-application of a metamagic feat to a spell. The circle leader may
-add the feats listed to a spell even if he does not know the feat or
-if the addition of the feat would raise the spell level past the cir-
-cle leader's normal maximum spell level (maximum spell level
-20th).
+  level expended (maximum caster levsl 40th).
+- Add Empower Spell, Maximize Spell, or Heighten Spell metamagic
+  feats to spells currently prepared by the circle leader. Each
+  bonus level counts as one additional spell level required by the
+  application of a metamagic feat to a spell. The circle leader may
+  add the feats listed to a spell even if he does not know the feat or
+  if the addition of the feat would raise the spell level past the circle
+  leader's normal maximum spell level (maximum spell level 20th).
 - Increase the circle leader's level by one for level checks (dispel
-checks, caster level checks, and so on) for every bonus level
-expended (maximum level 40th).
+  checks, caster level checks, and so on) for every bonus level
+  expended (maximum level 40th).
+  
 These effects last for-24 hours or until expended. Circle bonus levels
 may be divided up as the circle leader sees fit. For example, the Red
 Wizard Hauth Var leads a circle in which four participants each cast
