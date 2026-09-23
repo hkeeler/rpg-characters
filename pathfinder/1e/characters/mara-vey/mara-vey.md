@@ -114,7 +114,7 @@
 - Brew potions containing eligible spells of 3rd level or lower.
 - Craft (Alchemy): **+22**.
 
-## Hexes
+## [Hexes](https://www.aonprd.com/WitchHexes.aspx)
 Hex Save DC: **20** 
 
 10 + 4 (1/2 Witch level) + 6 (Int)
@@ -168,11 +168,6 @@ Hex Save DC: **20**
 | 4           | Locate Object |
 | 6           | Blood Biography |
 | 8           | Divination |
-| 10          | Contact Other Plane |
-| 12          | Legend Lore |
-| 14          | Vision |
-| 16          | Moment of Prescience |
-| 18          | Foresight |
 
 ## Familiar
 
@@ -200,6 +195,8 @@ Base spell DC:
 | 3           | 19 | 21 |
 | 4           | 20 | 22 |
 | 5           | 21 | 23 |
+
+## [Witch Spells]([url](https://www.aonprd.com/Spells.aspx?Class=Witch))
 
 ### 1st-Level Spells
 - Cure Light Wounds
@@ -233,17 +230,6 @@ Base spell DC:
 ### 5th-Level Spells
 - Baleful Polymorph
 - Feeblemind
-
-## Potion Brewing
-
-The **Cauldron** hex makes potion brewing Mara's secondary healing and utility method.
-
-Useful healing potions include:
-
-- Cure Light Wounds
-- Cure Moderate Wounds
-
-Eligible low-level Witch spells can also be brewed for defensive buffs, condition protection, exploration, and utility.
 
 ---
 
