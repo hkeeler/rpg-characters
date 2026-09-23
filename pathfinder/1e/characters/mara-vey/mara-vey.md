@@ -5,7 +5,7 @@
 |             |                                                 |
 |-------------|-------------------------------------------------|
 | Race        | Human                                           |
-| Class/Level | [Witch](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Witch): 9 |
+| Class/Level | Witch: 9                                        |
 | Alignment   | CN                                              |
 | Patron      | Dendar the Night Serpent (_Maybe_)              |
 | Familiar    | Hummingbird                                     |
@@ -91,25 +91,25 @@
 - If a creature successfully saves against a hex that normally cannot affect it again for 24 hours, the witch can attempt that hex against the creature one additional time before the end of her next turn.
 - Particularly useful with **Misfortune** and **Slumber**.
 
-### Improved Initiative (1st Level: Standard)
+### [Improved Initiative](https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Initiative) (1st Level: Standard)
 - +4 Initiative.
 - Final Initiative: **+6**.
 
-### Spell Focus (Necromancy) (3rd Level)
+### [Spell Focus (Necromancy)](https://www.aonprd.com/FeatDisplay.aspx?ItemName=Spell%20Focus) (3rd Level)
 - +1 DC for saving throws against Necromancy spells.
 
-### Extra Hex (5th Level)
+### [Extra Hex](https://www.aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Hex) (5th Level)
 - Gain one additional Witch hex.
 - Used to gain **Slumber**.
 
-### Greater Spell Focus (Necromancy) (7th Level)
+### [Greater Spell Focus (Necromancy)](https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Spell%20Focus) (7th Level)
 - Additional +1 DC for saving throws against Necromancy spells.
 - Total bonus from Spell Focus feats: **+2 DC**.
 
-### Spell Penetration (9th Level)
+### [Spell Penetration](https://www.aonprd.com/FeatDisplay.aspx?ItemName=Spell%20Penetration) (9th Level)
 - +2 caster-level checks to overcome Spell Resistance.
 
-### Brew Potion (6th Level: Cauldron Bonus)
+### [Brew Potion](https://www.aonprd.com/FeatDisplay.aspx?ItemName=Brew%20Potion) (6th Level: Cauldron Bonus)
 - Granted as a bonus feat by the **Cauldron** hex.
 - Brew potions containing eligible spells of 3rd level or lower.
 - Craft (Alchemy): **+22**.
@@ -158,7 +158,7 @@ Hex Save DC: **20**
 - Ally can roll twice and take the better result on one ability check, attack roll, saving throw, or skill check per round.
 - Can be extended with **Cackle**.
 
-## [Patron Spells](https://www.aonprd.com/WitchPatrons.aspx)
+## Patron
 
 ### Portents
 
@@ -168,14 +168,21 @@ Hex Save DC: **20**
 | 4           | Locate Object |
 | 6           | Blood Biography |
 | 8           | Divination |
+| 10          | Contact Other Plane |
+| 12          | Legend Lore |
+| 14          | Vision |
+| 16          | Moment of Prescience |
+| 18          | Foresight |
 
 ## Familiar
 
 ### Hummingbird
 - Flight
 - Scouting
+- Speech
 - High mobility
 - Delivering messages
+- Observing dangerous areas remotely
 
 ## Spellcasting
 
