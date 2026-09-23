@@ -5,7 +5,7 @@
 |             |                                                 |
 |-------------|-------------------------------------------------|
 | Race        | Human                                           |
-| Class/Level | Witch: 9                                        |
+| Class/Level | [Witch](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Witch): 9 |
 | Alignment   | CN                                              |
 | Patron      | Dendar the Night Serpent (_Maybe_)              |
 | Familiar    | Hummingbird                                     |
@@ -87,7 +87,7 @@
 
 ## Feats
 
-### Accursed Hex (1st Level: Human Bonus)
+### [Accursed Hex](https://www.aonprd.com/FeatDisplay.aspx?ItemName=Accursed%20Hex) (1st Level: Human Bonus)
 - If a creature successfully saves against a hex that normally cannot affect it again for 24 hours, the witch can attempt that hex against the creature one additional time before the end of her next turn.
 - Particularly useful with **Misfortune** and **Slumber**.
 
@@ -158,7 +158,7 @@ Hex Save DC: **20**
 - Ally can roll twice and take the better result on one ability check, attack roll, saving throw, or skill check per round.
 - Can be extended with **Cackle**.
 
-## Patron
+## [Patron Spells](https://www.aonprd.com/WitchPatrons.aspx)
 
 ### Portents
 
@@ -168,21 +168,14 @@ Hex Save DC: **20**
 | 4           | Locate Object |
 | 6           | Blood Biography |
 | 8           | Divination |
-| 10          | Contact Other Plane |
-| 12          | Legend Lore |
-| 14          | Vision |
-| 16          | Moment of Prescience |
-| 18          | Foresight |
 
 ## Familiar
 
 ### Hummingbird
 - Flight
 - Scouting
-- Speech
 - High mobility
 - Delivering messages
-- Observing dangerous areas remotely
 
 ## Spellcasting
 
