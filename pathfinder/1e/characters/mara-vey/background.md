@@ -90,36 +90,36 @@ along stream banks, with boulder and "wild-hedge" fences. Rashemi
 homes are typically caves, built into hillsides or covered with
 earthen mounds.
 
-Ashenwood: This ancient forest's mighty spirits live in the stones
+**Ashenwood:** This ancient forest's mighty spirits live in the stones
 and trees. It is not settled by the Rashemi, and while they sometimes
 enter the wood to hunt, they do so only after paying respect to the
 local spirits. Owlbears, trolls, and ettercaps also live here.
 
-The High Country: This northernmost portion of the Sunrise
+**The High Country:** This northernmost portion of the Sunrise
 Mountains is a place of ancient, dark hills, old stone monoliths, and
 wild magic. It is home to kobolds, goblins, trolls, wolves, winter
 wolves, and the ghosts of Rashemi and Tuigan dead. It is sparsely
 inhabited by grim hunters who prefer solitude.
 
-Immil Vale: This area north of the Ashenwood is continually
+**Immil Vale:** This area north of the Ashenwood is continually
 warm and green even in winter. This eternal springtime temperature
 is due to hot springs and a small amount of volcanic activity;
 vents and fumaroles of steam are common, often filling the vale
 with mist. Like most places in Rashemen, there are many spirits
 here.
 
-Lake Ashane: This glacial body of water is also known as the Lake
+**Lake Ashane:** This glacial body of water is also known as the Lake
 of Tears because of the battles fought on its shores. It is protected
 by odd aquatic creatures—nixies, nereids, and types unknown, all
 ruled by a great water spirit.
 
-The North Country: Spoken of as a different land, this region
+**The North Country:** Spoken of as a different land, this region
 contains ruins from Narfell and Raumatbar. These ruins are full
 of ancient magic and treasure protected by guardian spirits, spells,
 and monsters, Rashemi nobles explore these places to prove their
 bravery.
 
-Urlingwood: This forest at the north end of the Sunrise Mountains
+**Urlingwood:** This forest at the north end of the Sunrise Mountains
 is dense and wild. The Witches spend much time here, communing
 with the spirits, making offerings, performing binding
 rituals, and brewing the potent Rashemen firewine. Outsiders are
