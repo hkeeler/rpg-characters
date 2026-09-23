@@ -38,3 +38,14 @@ Use alternatives such as:
 4. Cackle
 5. Feeblemind or another disabling spell
 
+## Potion Brewing
+
+The **Cauldron** hex makes potion brewing Mara's secondary healing and utility method.
+
+Useful healing potions include:
+
+- Cure Light Wounds
+- Cure Moderate Wounds
+
+Eligible low-level Witch spells can also be brewed for defensive buffs, condition protection, exploration, and utility.
+
