@@ -1,5 +1,12 @@
 # Mara Vey
 
+A [Wychlaran](https://forgottenrealms.fandom.com/wiki/Wychlaran) witch of [Rashemen](https://forgottenrealms.fandom.com/wiki/Rashemen)
+from [Urlingwood](https://forgottenrealms.fandom.com/wiki/Urlingwood). She is the newest initiate into the [Hathran](https://forgottenrealms.fandom.com/wiki/Hathran).
+As such, she's been tasked to track down and bring back the [Vremyonni (aka The Old Ones)](https://forgottenrealms.fandom.com/wiki/Vremyonni)
+before their existence and their secrets are discovered by the outside world, especially the Red Wizards of Thay.
+
+See [The Walk of the Old Ones](https://github.com/hkeeler/rpg-characters/blob/main/pathfinder/1e/characters/mara-vey/background.md#plots-and-rumors).
+
 ## Overview
 
 |             |                                                 |
