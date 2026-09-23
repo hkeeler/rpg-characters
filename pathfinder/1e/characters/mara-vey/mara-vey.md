@@ -7,6 +7,12 @@ before their existence and their secrets are discovered by the outside world, es
 
 See [The Walk of the Old Ones](background.md#plots-and-rumors).
 
+[The Telthor](https://forgottenrealms.fandom.com/wiki/Telthor), animal spirits of
+the great woods of Rashemen, act as Mara's patron. They act as the "Portents"
+patron type, granting insight into the future, often appearing as ghostly animals
+in the forest. Mara has no control over where and when this may happen, and it
+is often difficult to decipher what exactly their messages mean.
+
 ## Overview
 
 |             |                                                 |
@@ -14,7 +20,7 @@ See [The Walk of the Old Ones](background.md#plots-and-rumors).
 | Race        | Human                                           |
 | Class/Level | Witch: 9                                        |
 | Alignment   | CN                                              |
-| Patron      | Dendar the Night Serpent (_Maybe_)              |
+| Patron      | [The Telthor](https://forgottenrealms.fandom.com/wiki/Telthor)|
 | Familiar    | Hummingbird                                     |
 | Languages   | Common, Aklo, Draconic, Elven, Infernal, Sylvan |
 | Size        | Medium                                          |
@@ -165,7 +171,9 @@ Hex Save DC: **20**
 - Ally can roll twice and take the better result on one ability check, attack roll, saving throw, or skill check per round.
 - Can be extended with **Cackle**.
 
-## Patron
+## Patron - [The Telthor](https://forgottenrealms.fandom.com/wiki/Telthor)
+The Telthor are animal spirits from the great woods of Rashemen.
+
 
 ### Portents
 
