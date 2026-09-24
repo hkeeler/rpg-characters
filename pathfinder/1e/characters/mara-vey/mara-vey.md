@@ -179,10 +179,10 @@ The Telthor are animal spirits from the great woods of Rashemen.
 
 | Witch Level | Patron Spell |
 |------------:|--------------|
-| 2           | Ill Omen |
-| 4           | Locate Object |
-| 6           | Blood Biography |
-| 8           | Divination |
+| 2           | [Ill Omen](https://www.aonprd.com/Spells.aspx?Class=Witch) |
+| 4           | [Locate Object](https://www.aonprd.com/Spells.aspx?Class=Witch) |
+| 6           | [Blood Biography](https://www.aonprd.com/Spells.aspx?Class=Witch) |
+| 8           | [Divination](https://www.aonprd.com/Spells.aspx?Class=Witch) |
 
 ## Familiar
 
@@ -211,40 +211,40 @@ Base spell DC:
 | 4           | 20 | 22 |
 | 5           | 21 | 23 |
 
-## [Witch Spells]([url](https://www.aonprd.com/Spells.aspx?Class=Witch))
+## [Witch Spells](https://www.aonprd.com/Spells.aspx?Class=Witch)
 
 ### 1st-Level Spells
-- Cure Light Wounds
-- Ill Omen
-- Mage Armor
-- Protection from Evil
-- Ray of Enfeeblement
-- Unseen Servant
+- [Cure Light Wounds](https://www.aonprd.com/Spells.aspx?Class=Witch)
+- [Ill Omen](https://www.aonprd.com/Spells.aspx?Class=Witch)
+- [Mage Armor](https://www.aonprd.com/Spells.aspx?Class=Witch)
+- [Protection from Evil](https://www.aonprd.com/Spells.aspx?Class=Witch)
+- [Ray of Enfeeblement](https://www.aonprd.com/Spells.aspx?Class=Witch)
+- [Unseen Servant](https://www.aonprd.com/Spells.aspx?Class=Witch)
 
 ### 2nd-Level Spells
-- Blindness/Deafness
-- Cure Moderate Wounds
-- False Life
-- Glitterdust
-- Locate Object
-- Web
+- [Blindness/Deafness](https://www.aonprd.com/Spells.aspx?Class=Witch)
+- [Cure Moderate Wounds](https://www.aonprd.com/Spells.aspx?Class=Witch)
+- [False Life](https://www.aonprd.com/Spells.aspx?Class=Witch)
+- [Glitterdust](https://www.aonprd.com/Spells.aspx?Class=Witch)
+- [Locate Object](https://www.aonprd.com/Spells.aspx?Class=Witch)
+- [Web](https://www.aonprd.com/Spells.aspx?Class=Witch)
 
 ### 3rd-Level Spells
-- Bestow Curse
-- Blood Biography
-- Dispel Magic
-- Fly
-- Stinking Cloud
+- [Bestow Curse](https://www.aonprd.com/Spells.aspx?Class=Witch)
+- [Blood Biography](https://www.aonprd.com/Spells.aspx?Class=Witch)
+- [Dispel Magic](https://www.aonprd.com/Spells.aspx?Class=Witch)
+- [Fly](https://www.aonprd.com/Spells.aspx?Class=Witch)
+- [Stinking Cloud](https://www.aonprd.com/Spells.aspx?Class=Witch)
 
 ### 4th-Level Spells
-- Black Tentacles
-- Dimension Door
-- Divination
-- Enervation
+- [Black Tentacles](https://www.aonprd.com/Spells.aspx?Class=Witch)
+- [Dimension Door](https://www.aonprd.com/Spells.aspx?Class=Witch)
+- [Divination](https://www.aonprd.com/Spells.aspx?Class=Witch)
+- [Enervation](https://www.aonprd.com/Spells.aspx?Class=Witch)
 
 ### 5th-Level Spells
-- Baleful Polymorph
-- Feeblemind
+- [Baleful Polymorph](https://www.aonprd.com/Spells.aspx?Class=Witch)
+- [Feeblemind](https://www.aonprd.com/Spells.aspx?Class=Witch)
 
 ---
 
@@ -255,7 +255,7 @@ Base spell DC:
 20-point buy before racial bonuses or level increases.
 
 |     | Score | Cost |
-|-----|------:|-----:|
+|-----|------:|------:|
 | STR | 7     | -4   |
 | DEX | 14    | 5    |
 | CON | 14    | 5    |
@@ -302,7 +302,7 @@ Favored class bonus is taken as **+1 HP at every level**.
 
 ### Level 2 — Witch 2
 - Hex: **Cackle**
-- Patron Spell: **Ill Omen**
+- Patron Spell: [Ill Omen](https://www.aonprd.com/Spells.aspx?Class=Witch)
 
 ### Level 3 — Witch 3
 - Feat: **Spell Focus (Necromancy)**
@@ -311,7 +311,7 @@ Favored class bonus is taken as **+1 HP at every level**.
 ### Level 4 — Witch 4
 - Ability Increase: **INT 20 → 21**
 - Hex: **Misfortune**
-- Patron Spell: **Locate Object**
+- Patron Spell: [Locate Object](https://www.aonprd.com/Spells.aspx?Class=Witch)
 
 ### Level 5 — Witch 5
 - Feat: **Extra Hex**
@@ -321,7 +321,7 @@ Favored class bonus is taken as **+1 HP at every level**.
 ### Level 6 — Witch 6
 - Hex: **Cauldron**
 - Bonus Feat: **Brew Potion**
-- Patron Spell: **Blood Biography**
+- Patron Spell: [Blood Biography](https://www.aonprd.com/Spells.aspx?Class=Witch)
 
 ### Level 7 — Witch 7
 - Feat: **Greater Spell Focus (Necromancy)**
@@ -332,7 +332,7 @@ Favored class bonus is taken as **+1 HP at every level**.
   - INT Modifier: **+6**
 - Hex: **Fortune**
 - Evil Eye improves to **-4**
-- Patron Spell: **Divination**
+- Patron Spell: [Divination](https://www.aonprd.com/Spells.aspx?Class=Witch)
 
 ### Level 9 — Witch 9
 - Feat: **Spell Penetration**
