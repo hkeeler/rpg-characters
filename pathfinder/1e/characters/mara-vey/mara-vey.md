@@ -179,10 +179,10 @@ The Telthor are animal spirits from the great woods of Rashemen.
 
 | Witch Level | Patron Spell |
 |------------:|--------------|
-| 2           | [Ill Omen](https://www.aonprd.com/Spells.aspx?Class=Witch) |
-| 4           | [Locate Object](https://www.aonprd.com/Spells.aspx?Class=Witch) |
-| 6           | [Blood Biography](https://www.aonprd.com/Spells.aspx?Class=Witch) |
-| 8           | [Divination](https://www.aonprd.com/Spells.aspx?Class=Witch) |
+| 2           | [Ill Omen](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Ill%20Omen) |
+| 4           | [Locate Object](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Locate%20Object) |
+| 6           | [Blood Biography](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Blood%20Biography) |
+| 8           | [Divination](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Divination) |
 
 ## Familiar
 
@@ -214,37 +214,37 @@ Base spell DC:
 ## [Witch Spells](https://www.aonprd.com/Spells.aspx?Class=Witch)
 
 ### 1st-Level Spells
-- [Cure Light Wounds](https://www.aonprd.com/Spells.aspx?Class=Witch)
-- [Ill Omen](https://www.aonprd.com/Spells.aspx?Class=Witch)
-- [Mage Armor](https://www.aonprd.com/Spells.aspx?Class=Witch)
-- [Protection from Evil](https://www.aonprd.com/Spells.aspx?Class=Witch)
-- [Ray of Enfeeblement](https://www.aonprd.com/Spells.aspx?Class=Witch)
-- [Unseen Servant](https://www.aonprd.com/Spells.aspx?Class=Witch)
+- [Cure Light Wounds](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Cure%20Light%20Wounds)
+- [Ill Omen](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Ill%20Omen)
+- [Mage Armor](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Mage%20Armor)
+- [Protection from Evil](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Protection%20from%20Evil)
+- [Ray of Enfeeblement](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Ray%20of%20Enfeeblement)
+- [Unseen Servant](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Unseen%20Servant)
 
 ### 2nd-Level Spells
-- [Blindness/Deafness](https://www.aonprd.com/Spells.aspx?Class=Witch)
-- [Cure Moderate Wounds](https://www.aonprd.com/Spells.aspx?Class=Witch)
-- [False Life](https://www.aonprd.com/Spells.aspx?Class=Witch)
-- [Glitterdust](https://www.aonprd.com/Spells.aspx?Class=Witch)
-- [Locate Object](https://www.aonprd.com/Spells.aspx?Class=Witch)
-- [Web](https://www.aonprd.com/Spells.aspx?Class=Witch)
+- [Blindness/Deafness](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Blindness%2FDeafness)
+- [Cure Moderate Wounds](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Cure%20Moderate%20Wounds)
+- [False Life](https://www.aonprd.com/SpellDisplay.aspx?ItemName=False%20Life)
+- [Glitterdust](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Glitterdust)
+- [Locate Object](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Locate%20Object)
+- [Web](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Web)
 
 ### 3rd-Level Spells
-- [Bestow Curse](https://www.aonprd.com/Spells.aspx?Class=Witch)
-- [Blood Biography](https://www.aonprd.com/Spells.aspx?Class=Witch)
-- [Dispel Magic](https://www.aonprd.com/Spells.aspx?Class=Witch)
-- [Fly](https://www.aonprd.com/Spells.aspx?Class=Witch)
-- [Stinking Cloud](https://www.aonprd.com/Spells.aspx?Class=Witch)
+- [Bestow Curse](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Bestow%20Curse)
+- [Blood Biography](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Blood%20Biography)
+- [Dispel Magic](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Dispel%20Magic)
+- [Fly](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Fly)
+- [Stinking Cloud](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Stinking%20Cloud)
 
 ### 4th-Level Spells
-- [Black Tentacles](https://www.aonprd.com/Spells.aspx?Class=Witch)
-- [Dimension Door](https://www.aonprd.com/Spells.aspx?Class=Witch)
-- [Divination](https://www.aonprd.com/Spells.aspx?Class=Witch)
-- [Enervation](https://www.aonprd.com/Spells.aspx?Class=Witch)
+- [Black Tentacles](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Black%20Tentacles)
+- [Dimension Door](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Dimension%20Door)
+- [Divination](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Divination)
+- [Enervation](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Enervation)
 
 ### 5th-Level Spells
-- [Baleful Polymorph](https://www.aonprd.com/Spells.aspx?Class=Witch)
-- [Feeblemind](https://www.aonprd.com/Spells.aspx?Class=Witch)
+- [Baleful Polymorph](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Baleful%20Polymorph)
+- [Feeblemind](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Feeblemind)
 
 ---
 
@@ -302,7 +302,7 @@ Favored class bonus is taken as **+1 HP at every level**.
 
 ### Level 2 — Witch 2
 - Hex: **Cackle**
-- Patron Spell: [Ill Omen](https://www.aonprd.com/Spells.aspx?Class=Witch)
+- Patron Spell: [Ill Omen](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Ill%20Omen)
 
 ### Level 3 — Witch 3
 - Feat: **Spell Focus (Necromancy)**
@@ -311,7 +311,7 @@ Favored class bonus is taken as **+1 HP at every level**.
 ### Level 4 — Witch 4
 - Ability Increase: **INT 20 → 21**
 - Hex: **Misfortune**
-- Patron Spell: [Locate Object](https://www.aonprd.com/Spells.aspx?Class=Witch)
+- Patron Spell: [Locate Object](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Locate%20Object)
 
 ### Level 5 — Witch 5
 - Feat: **Extra Hex**
@@ -321,7 +321,7 @@ Favored class bonus is taken as **+1 HP at every level**.
 ### Level 6 — Witch 6
 - Hex: **Cauldron**
 - Bonus Feat: **Brew Potion**
-- Patron Spell: [Blood Biography](https://www.aonprd.com/Spells.aspx?Class=Witch)
+- Patron Spell: [Blood Biography](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Blood%20Biography)
 
 ### Level 7 — Witch 7
 - Feat: **Greater Spell Focus (Necromancy)**
@@ -332,7 +332,7 @@ Favored class bonus is taken as **+1 HP at every level**.
   - INT Modifier: **+6**
 - Hex: **Fortune**
 - Evil Eye improves to **-4**
-- Patron Spell: [Divination](https://www.aonprd.com/Spells.aspx?Class=Witch)
+- Patron Spell: [Divination](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Divination)
 
 ### Level 9 — Witch 9
 - Feat: **Spell Penetration**
