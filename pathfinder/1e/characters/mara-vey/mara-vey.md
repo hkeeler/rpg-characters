@@ -281,11 +281,11 @@ Based on [Thrush](https://www.aonprd.com/MonsterDisplay.aspx?ItemName=Thrush) bu
 
 ### Saving Throws
 
-A familiar uses the better save bonus between the base creature and its master, then applies its **own ability modifiers**.
+A familiar uses the better **base save bonus** between the base creature and its master, then applies its own ability modifiers.
 
 | Save      | Base | Ability |  Total |
 | --------- | ---: | ------: | -----: |
-| Reflex    |   +4 |  +3 DEX | **+7** |
+| Reflex    |   +3 |  +3 DEX | **+6** |
 | Fortitude |   +3 |  -3 CON | **+0** |
 | Will      |   +6 |  +2 WIS | **+8** |
 
