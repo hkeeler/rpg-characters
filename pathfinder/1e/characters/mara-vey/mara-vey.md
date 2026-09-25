@@ -301,7 +301,7 @@ Use master's skill or their own ranks, whichever are better, while applying the 
 
 | Skill                                                                | Total | Rank | Class | Ability  | Special                 | Untrained |
 |----------------------------------------------------------------------|------:|-----:|------:|----------|-------------------------|-----------|
-| [Fly](https://www.aonprd.com/Skills.aspx?ItemName=Fly)               | 23    |  5   |   3   | +3 (Dex) | +8 size + 4 good manuv. |         N |
+| [Fly](https://www.aonprd.com/Skills.aspx?ItemName=Fly)               | 21    |  5   |   3   | +3 (Dex) | +6 size + 4 good manuv. |         N |
 | [Perception](https://www.aonprd.com/Skills.aspx?ItemName=Perception) | 17    |  9   |   3   | +2 (Wis) | +3 focus                |         Y |
 
 
