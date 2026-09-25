@@ -225,7 +225,7 @@ Base spell DC:
 - [Web](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Web)
 
 ### 3rd-Level Spells
-**Spells per day:** 5
+**Spells per day:** 4
 - [Bestow Curse](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Bestow%20Curse)
 - [Blood Biography](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Blood%20Biography)
 - [Dispel Magic](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Dispel%20Magic)
