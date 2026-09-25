@@ -34,7 +34,7 @@ is often difficult to decipher what exactly their messages mean.
 | Base Attack     | +4       |
 | Hex Save DC     | 20       |
 | Caster Level    | 9        |
-| Concentration   | +15      |
+| Concentration   | +15 / +17|
 | Initiative      | +6       |
 | Speed           | 30 ft.   |
 
@@ -42,14 +42,14 @@ is often difficult to decipher what exactly their messages mean.
 
 ### Current Abilities
 
-|     | Score | Bonus |
-|-----|------:|------:|
-| STR | 7     | -2    |
-| DEX | 14    | +2    |
-| CON | 14    | +2    |
-| INT | 22    | +6    |
-| WIS | 11    | +0    |
-| CHA | 7     | -2    |
+|     | Score | Bonus | Special |
+|-----|------:|------:|---------|
+| STR | 7     | -2    |         |
+| DEX | 14    | +2    |         |
+| CON | 14    | +2    |         |
+| INT | 22/26 | +6    | +4 Mask |
+| WIS | 11    | +0    |         |
+| CHA | 7     | -2    |         |
 
 |             | Score | Details                              |
 |-------------|------:|--------------------------------------|
@@ -86,16 +86,16 @@ is often difficult to decipher what exactly their messages mean.
 
 | Skill | Total | Rank | Class | Ability | Special | Untrained |
 |-------|------:|-----:|------:|---------|---------|-----------|
-| Craft (Alchemy) | **22** | 9 | 3 | +6 (Int) | +4 (Cauldron) | Y |
+| Craft (Alchemy) | 24 | 9 | 3 | +6 (Int) | +4 (Cauldron) +2 (Mask) | Y |
 | Fly | 14 | 5 | 3 | +2 (Dex) | +4 (Broom) | N |
 | Heal | 8 | 5 | 3 | +0 (Wis) |  | Y |
-| K. Arcana | 17 | 8 | 3 | +6 (Int) | | N |
-| K. Nature | 17 | 8 | 3 | +6 (Int) | | N |
-| K. Planes | 17 | 8 | 3 | +6 (Int) | | N |
-| K. Religion | 14 | 8 | 0 | +6 (Int) | | N |
-| Linguistics | 8 | 2 | 0 | +6 (Int) | | N |
+| K. Arcana | 19 | 8 | 3 | +6 (Int) | +2 (Mask) | N |
+| K. Nature | 19 | 8 | 3 | +6 (Int) | +2 (Mask) | N |
+| K. Planes | 19 | 8 | 3 | +6 (Int) | +2 (Mask) | N |
+| K. Religion | 16 | 8 | 0 | +6 (Int) | +2 (Mask) | N |
+| Linguistics | 10 | 2 | 0 | +6 (Int) | +2 (Mask) | N |
 | Perception | 9 | 9 | 0 | +0 (Wis) | | Y |
-| Spellcraft | 18 | 9 | 3 | +6 (Int) | | Y |
+| Spellcraft | 20 | 9 | 3 | +6 (Int) | +2 (Mask) | Y |
 | Use Magic Device | 4 | 3 | 3 | -2 (Cha) | | N |
 
 ## Feats
@@ -130,7 +130,7 @@ is often difficult to decipher what exactly their messages mean.
 ## [Hexes](https://www.aonprd.com/WitchHexes.aspx)
 Hex Save DC: **20** 
 
-10 + 4 (1/2 Witch level) + 6 (Int)
+10 + 4 (1/2 Witch level) + 6 (Int) + 2 (Mask)
 
 ### Evil Eye (1st Level)
 - Standard action.
@@ -193,16 +193,16 @@ The Telthor are animal spirits from the great woods of Rashemen.
 
 Base spell DC:
 
-**10 + spell level + 6 (Int)**
+**10 + spell level + 6 (Int) + 2 (Mask)**
 
 | Spell Level | DC | Necromancy DC |
 |------------:|---:|--------------:|
-| 0           | 16 | 18 |
-| 1           | 17 | 19 |
-| 2           | 18 | 20 |
-| 3           | 19 | 21 |
-| 4           | 20 | 22 |
-| 5           | 21 | 23 |
+| 0           | 18 | 20 |
+| 1           | 19 | 21 |
+| 2           | 20 | 22 |
+| 3           | 21 | 23 |
+| 4           | 22 | 24 |
+| 5           | 23 | 25 |
 
 ## [Known Witch Spells](https://www.aonprd.com/Spells.aspx?Class=Witch)
 
@@ -259,7 +259,7 @@ Witches know all witch cantrips.
 **Price:** 16,000 gp
 
 [**Asatheirr**](https://forgottenrealms.fandom.com/wiki/Wychlaran#Face-Veils), or "world-face," is the ceremonial mask given upon initiation into the Hathran.
-Carved and painted with symbols the Telthor.
+Carved and painted with symbols of the Telthor.
 
 The mask grants a **+4 enhancement bonus to Intelligence**.
 
@@ -269,7 +269,7 @@ After Mara has worn it for 24 hours, it also grants skill ranks equal to her Hit
 **Slot:** Chest
 **Price:** 6,000 gp
 
-Twice per day, uss **Cackle** as a **swift action** instead of a move action.
+Twice per day, use **Cackle** as a **swift action** instead of a move action.
 
 ### [Hexing Doll](https://www.aonprd.com/MagicWondrousDisplay.aspx?FinalName=Hexing%20Doll)
 **Slot:** None
