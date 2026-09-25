@@ -207,6 +207,8 @@ Base spell DC:
 ## [Witch Spells](https://www.aonprd.com/Spells.aspx?Class=Witch)
 
 ### 0-Level Cantrips
+**Spells per day:** 4
+
 Witches know all witch cantrips.
 
 ### 1st-Level Spells
