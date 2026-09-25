@@ -87,7 +87,7 @@ is often difficult to decipher what exactly their messages mean.
 | Skill | Total | Rank | Class | Ability | Special | Untrained |
 |-------|------:|-----:|------:|---------|---------|-----------|
 | Craft (Alchemy) | **22** | 9 | 3 | +6 (Int) | +4 (Cauldron) | Y |
-| Fly | 9 | 4 | 3 | +2 (Dex) | | N |
+| Fly | 10 | 5 | 3 | +2 (Dex) | | N |
 | Heal | 8 | 5 | 3 | +0 (Wis) | | Y |
 | K. Arcana | 17 | 8 | 3 | +6 (Int) | | N |
 | K. Nature | 17 | 8 | 3 | +6 (Int) | | N |
@@ -206,6 +206,9 @@ Base spell DC:
 
 ## [Witch Spells](https://www.aonprd.com/Spells.aspx?Class=Witch)
 
+### 0-Level Cantrips
+Witches know all witch cantrips.
+
 ### 1st-Level Spells
 **Spells per day:** 6
 - [Cure Light Wounds](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Cure%20Light%20Wounds)
@@ -274,7 +277,7 @@ Based on [Thrush](https://www.aonprd.com/MonsterDisplay.aspx?ItemName=Thrush) bu
 | **Initiative**    |                +3 |       |
 | **Fly Speed**     |   60 ft. (good).  |       |
 
-#### Saving Throws
+### Saving Throws
 
 A familiar uses the better save bonus between the base creature and its master, then applies its **own ability modifiers**.
 
@@ -286,18 +289,18 @@ A familiar uses the better save bonus between the base creature and its master, 
 
 See: [Familiar Rules](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Familiar)
 
-#### Attacks
+### Attacks
 
 - **Bite: +11 melee** / dmg 1d2 - 5
 
-#### Skills
+### Skills
 
 Use master's skill or their own ranks, whichever are better, while applying the familiar's own ability modifiers.
 
-| Skill                                                                | Total | Rank | Class | Ability  | Special  | Untrained |
-|----------------------------------------------------------------------|------:|-----:|------:|----------|----------|-----------|
-| [Fly](https://www.aonprd.com/Skills.aspx?ItemName=Fly)               | 18    |  4   |   3   | +3 (Dex) | +8 size  |         N |
-| [Perception](https://www.aonprd.com/Skills.aspx?ItemName=Perception) | 17    |  9   |   3   | +2 (Wis) | +3 focus |         Y |
+| Skill                                                                | Total | Rank | Class | Ability  | Special                 | Untrained |
+|----------------------------------------------------------------------|------:|-----:|------:|----------|-------------------------|-----------|
+| [Fly](https://www.aonprd.com/Skills.aspx?ItemName=Fly)               | 23    |  5   |   3   | +3 (Dex) | +8 size + 4 good manuv. |         N |
+| [Perception](https://www.aonprd.com/Skills.aspx?ItemName=Perception) | 17    |  9   |   3   | +2 (Wis) | +3 focus                |         Y |
 
 
 ### Feats
