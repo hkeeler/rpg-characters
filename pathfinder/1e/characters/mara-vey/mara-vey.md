@@ -88,7 +88,7 @@ is often difficult to decipher what exactly their messages mean.
 |-------|------:|-----:|------:|---------|---------|-----------|
 | Craft (Alchemy) | **22** | 9 | 3 | +6 (Int) | +4 (Cauldron) | Y |
 | Fly | 10 | 5 | 3 | +2 (Dex) | | N |
-| Heal | 8 | 5 | 3 | +0 (Wis) | | Y |
+| Heal | 12 | 5 | 3 | +0 (Wis) | 4 (Broom) | Y |
 | K. Arcana | 17 | 8 | 3 | +6 (Int) | | N |
 | K. Nature | 17 | 8 | 3 | +6 (Int) | | N |
 | K. Planes | 17 | 8 | 3 | +6 (Int) | | N |
@@ -291,6 +291,30 @@ The doll can be stuffed with the **hair of a specific creature**.
 
 While a Witch is holding the prepared doll, the save DC of that Witch's hexes against the linked creature increases by:
 **+2**
+
+### [Broom of Flying](https://www.aonprd.com/MagicWondrousDisplay.aspx?FinalName=Broom%20of%20Flying)
+**Slot:** None
+**Price:** 17,000 gp
+**Weight:** 3 lb.
+
+A broom of flying can carry its rider through the air for up to **9 hours per day**. These hours do not need to be consecutive.
+
+#### Flight
+While carrying up to **200 lb.**, the broom flies at:
+
+**40 ft.**
+
+While carrying **201–400 lb.**, its speed is reduced to:
+
+**30 ft.**
+
+The broom grants a **+4 bonus on Fly checks** while being ridden.
+
+#### Independent Travel
+
+A broom of flying can also travel without a rider. 
+When given a destination and command word, it can fly there on its own and wait for its owner.
+It can later be recalled with another command word, provided it remains within the item's normal operating limits.
 
 
 ---
