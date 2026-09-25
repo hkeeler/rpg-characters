@@ -204,7 +204,7 @@ Base spell DC:
 | 4           | 20 | 22 |
 | 5           | 21 | 23 |
 
-## [Witch Spells](https://www.aonprd.com/Spells.aspx?Class=Witch)
+## [Known Witch Spells](https://www.aonprd.com/Spells.aspx?Class=Witch)
 
 ### 0-Level Cantrips
 **Spells per day:** 4
