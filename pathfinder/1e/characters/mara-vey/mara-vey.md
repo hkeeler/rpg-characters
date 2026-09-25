@@ -265,6 +265,33 @@ The mask grants a **+4 enhancement bonus to Intelligence**.
 
 After Mara has worn it for 24 hours, it also grants skill ranks equal to her Hit Dice in **two predetermined skills**, as normal for a Headband of Vast Intelligence +4.
 
+### [Cackling Hag's Blouse](https://www.aonprd.com/MagicWondrousDisplay.aspx?FinalName=Cackling%20Hag%27s%20Blouse)
+**Slot:** Chest
+**Price:** 6,000 gp
+
+Twice per day, uss **Cackle** as a **swift action** instead of a move action.
+
+### [Hexing Doll](https://www.aonprd.com/MagicWondrousDisplay.aspx?FinalName=Hexing%20Doll)
+**Slot:** None
+**Price:** 2,500 gp
+**Weight:** 1 lb.
+
+A malevolent-looking doll made from cheap rags and embroidery thread, typically stuffed with straw or sawdust.
+
+The doll has two different uses.
+
+#### Carried Curse
+
+A creature that is **holding or carrying** the doll takes a:
+**-4 penalty on saving throws against Witch hexes**
+
+#### Sympathetic Link
+
+The doll can be stuffed with the **hair of a specific creature**.
+
+While a Witch is holding the prepared doll, the save DC of that Witch's hexes against the linked creature increases by:
+**+2**
+
 
 ---
 ## Familiar - Hummingbird
