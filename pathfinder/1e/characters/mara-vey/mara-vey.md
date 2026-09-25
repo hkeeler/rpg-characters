@@ -87,8 +87,8 @@ is often difficult to decipher what exactly their messages mean.
 | Skill | Total | Rank | Class | Ability | Special | Untrained |
 |-------|------:|-----:|------:|---------|---------|-----------|
 | Craft (Alchemy) | **22** | 9 | 3 | +6 (Int) | +4 (Cauldron) | Y |
-| Fly | 10 | 5 | 3 | +2 (Dex) | | N |
-| Heal | 12 | 5 | 3 | +0 (Wis) | 4 (Broom) | Y |
+| Fly | 14 | 5 | 3 | +2 (Dex) | +4 (Broom) | N |
+| Heal | 8 | 5 | 3 | +0 (Wis) |  | Y |
 | K. Arcana | 17 | 8 | 3 | +6 (Int) | | N |
 | K. Nature | 17 | 8 | 3 | +6 (Int) | | N |
 | K. Planes | 17 | 8 | 3 | +6 (Int) | | N |
