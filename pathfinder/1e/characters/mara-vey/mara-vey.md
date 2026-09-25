@@ -249,6 +249,23 @@ Witches know all witch cantrips.
 - [Baleful Polymorph](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Baleful%20Polymorph)
 - [Feeblemind](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Feeblemind)
 
+## Equipment
+
+### Asatheirr of the Telthor
+
+*Functions as a [Headband of Vast Intelligence +4](https://www.aonprd.com/MagicWondrousDisplay.aspx?FinalName=Headband%20of%20Vast%20Intelligence4).*
+
+**Slot:** Headband
+**Price:** 16,000 gp
+
+[**Asatheirr**](https://forgottenrealms.fandom.com/wiki/Wychlaran#Face-Veils), or "world-face," is the ceremonial mask given upon initiation into the Hathran.
+Carved and painted with symbols the Telthor.
+
+The mask grants a **+4 enhancement bonus to Intelligence**.
+
+After Mara has worn it for 24 hours, it also grants skill ranks equal to her Hit Dice in **two predetermined skills**, as normal for a Headband of Vast Intelligence +4.
+
+
 ---
 ## Familiar - Hummingbird
 
