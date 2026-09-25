@@ -32,7 +32,7 @@ is often difficult to decipher what exactly their messages mean.
 | HP              | 62       |
 | Hit Die         | D6       |
 | Base Attack     | +4       |
-| Hex Save DC     | 20       |
+| Hex Save DC     | 20 / 22  |
 | Caster Level    | 9        |
 | Concentration   | +15 / +17|
 | Initiative      | +6       |
@@ -230,7 +230,7 @@ Witches know all witch cantrips.
 - [Web](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Web)
 
 ### 3rd-Level Spells
-**Spells per day:** 4
+**Spells per day:** 5
 - [Bestow Curse](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Bestow%20Curse)
 - [Blood Biography](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Blood%20Biography)
 - [Dispel Magic](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Dispel%20Magic)
@@ -238,7 +238,7 @@ Witches know all witch cantrips.
 - [Stinking Cloud](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Stinking%20Cloud)
 
 ### 4th-Level Spells
-**Spells per day:** 3
+**Spells per day:** 4
 - [Black Tentacles](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Black%20Tentacles)
 - [Dimension Door](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Dimension%20Door)
 - [Divination](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Divination)
