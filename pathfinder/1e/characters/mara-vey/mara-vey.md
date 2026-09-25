@@ -89,14 +89,14 @@ is often difficult to decipher what exactly their messages mean.
 | Craft (Alchemy) | **22** | 9 | 3 | +6 (Int) | +4 (Cauldron) | Y |
 | Fly | 9 | 4 | 3 | +2 (Dex) | | N |
 | Heal | 8 | 5 | 3 | +0 (Wis) | | Y |
-| K. Arcana | 18 | 9 | 3 | +6 (Int) | | N |
-| K. Nature | 18 | 9 | 3 | +6 (Int) | | N |
-| K. Planes | 18 | 9 | 3 | +6 (Int) | | N |
-| K. Religion | 15 | 9 | 0 | +6 (Int) | | N |
-| Linguistics | 11 | 5 | 0 | +6 (Int) | | N |
+| K. Arcana | 17 | 8 | 3 | +6 (Int) | | N |
+| K. Nature | 17 | 8 | 3 | +6 (Int) | | N |
+| K. Planes | 17 | 8 | 3 | +6 (Int) | | N |
+| K. Religion | 14 | 8 | 0 | +6 (Int) | | N |
+| Linguistics | 8 | 2 | 0 | +6 (Int) | | N |
 | Perception | 9 | 9 | 0 | +0 (Wis) | | Y |
 | Spellcraft | 18 | 9 | 3 | +6 (Int) | | Y |
-| Use Magic Device | 5 | 4 | 3 | -2 (Cha) | | N |
+| Use Magic Device | 4 | 3 | 3 | -2 (Cha) | | N |
 
 ## Feats
 
@@ -184,15 +184,8 @@ The Telthor are animal spirits from the great woods of Rashemen.
 | 6           | [Blood Biography](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Blood%20Biography) |
 | 8           | [Divination](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Divination) |
 
-## Familiar
 
-### Hummingbird
-- Flight
-- Scouting
-- Speech
-- High mobility
-- Delivering messages
-- Observing dangerous areas remotely
+
 
 ## Spellcasting
 
@@ -214,6 +207,7 @@ Base spell DC:
 ## [Witch Spells](https://www.aonprd.com/Spells.aspx?Class=Witch)
 
 ### 1st-Level Spells
+**Spells per day:** 6
 - [Cure Light Wounds](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Cure%20Light%20Wounds)
 - [Ill Omen](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Ill%20Omen)
 - [Mage Armor](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Mage%20Armor)
@@ -222,6 +216,7 @@ Base spell DC:
 - [Unseen Servant](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Unseen%20Servant)
 
 ### 2nd-Level Spells
+**Spells per day:** 6
 - [Blindness/Deafness](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Blindness%2FDeafness)
 - [Cure Moderate Wounds](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Cure%20Moderate%20Wounds)
 - [False Life](https://www.aonprd.com/SpellDisplay.aspx?ItemName=False%20Life)
@@ -230,6 +225,7 @@ Base spell DC:
 - [Web](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Web)
 
 ### 3rd-Level Spells
+**Spells per day:** 5
 - [Bestow Curse](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Bestow%20Curse)
 - [Blood Biography](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Blood%20Biography)
 - [Dispel Magic](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Dispel%20Magic)
@@ -237,14 +233,119 @@ Base spell DC:
 - [Stinking Cloud](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Stinking%20Cloud)
 
 ### 4th-Level Spells
+**Spells per day:** 3
 - [Black Tentacles](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Black%20Tentacles)
 - [Dimension Door](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Dimension%20Door)
 - [Divination](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Divination)
 - [Enervation](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Enervation)
 
 ### 5th-Level Spells
+**Spells per day:** 2
 - [Baleful Polymorph](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Baleful%20Polymorph)
 - [Feeblemind](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Feeblemind)
+
+---
+## Familiar - Hummingbird
+
+See [Familiar Rules](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Familiar).
+
+Based on [Thrush](https://www.aonprd.com/MonsterDisplay.aspx?ItemName=Thrush) but tweaked a bit.
+
+### Stats
+
+| Ability | Score  | Modifier |
+| ------- | -----: | -------: |
+| STR     |  **1** |   **–5** |
+| DEX     | **17** |   **+3** |
+| CON     |  **4** |   **–3** |
+| INT     | **10** |   **+0** |
+| WIS     | **15** |   **+2** |
+| CHA     |  **6** |   **–2** |
+
+
+|                   |          Value    | Notes |
+| ----------------- | ----------------: |-------|
+| **HP**                   |            31 |
+| **AC**            |                22 | 10 + 3 (DEX) + 4 (Diminutive) + 5 (familiar nat. armor) |
+| **AC (touch)**    |                17 | 10 + 3 (DEX) + 4 (Diminutive) |
+| **AC (flat)**     |                19 | 10 + 4 (Diminutive) + 5 (familiar nat. armor) |
+| **Size**          |        Diminutive |       |
+| **Speed**         |             5 ft. |       |
+| **Initiative**    |                +3 |       |
+| **Fly Speed**     |   60 ft. (good).  |       |
+
+#### Saving Throws
+
+A familiar uses the better save bonus between the base creature and its master, then applies its **own ability modifiers**.
+
+| Save      | Base | Ability |  Total |
+| --------- | ---: | ------: | -----: |
+| Reflex    |   +4 |  +3 DEX | **+7** |
+| Fortitude |   +3 |  -3 CON | **+0** |
+| Will      |   +6 |  +2 WIS | **+8** |
+
+See: [Familiar Rules](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Familiar)
+
+#### Attacks
+
+- **Bite: +11 melee** / dmg 1d2 - 5
+
+#### Skills
+
+Use master's skill or their own ranks, whichever are better, while applying the familiar's own ability modifiers.
+
+| Skill                                                                | Total | Rank | Class | Ability  | Special  | Untrained |
+|----------------------------------------------------------------------|------:|-----:|------:|----------|----------|-----------|
+| [Fly](https://www.aonprd.com/Skills.aspx?ItemName=Fly)               | 18    |  4   |   3   | +3 (Dex) | +8 size  |         N |
+| [Perception](https://www.aonprd.com/Skills.aspx?ItemName=Perception) | 17    |  9   |   3   | +2 (Wis) | +3 focus |         Y |
+
+
+### Feats
+
+#### [Skill Focus (Perception)](https://www.aonprd.com/FeatDisplay.aspx?ItemName=Skill%20Focus)
+
+* +3 bonus to Perception.
+* Increases to +6 once the familiar has 10 ranks in Perception.
+
+## Familiar Abilities
+See: [Familiar Rules](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Familiar)
+
+### [Alertness](https://www.aonprd.com/FeatDisplay.aspx?ItemName=Alertness)
+While the familiar is within arm's reach, master gains **Alertness**.
+
+* +2 Perception
+* +2 Sense Motive
+
+### Improved Evasion (Ex)
+On a Reflex save for half damage:
+
+* Success: no damage
+* Failure: half damage
+
+### Share Spells
+Mara can cast spells with a target of "you" on the hummingbird and can cast appropriate spells on it despite its magical beast type.
+
+### Empathic Link (Su)
+Mara and the hummingbird share an empathic link out to **1 mile**.
+
+### Deliver Touch Spells (Su)
+The hummingbird can deliver Mara's touch spells.
+
+Its **60 ft. fly speed and good maneuverability** make it exceptionally capable of doing so, although risking the familiar in combat should be done cautiously.
+
+### Speak with Master (Ex)
+The hummingbird can verbally communicate with Mara.
+
+### Speak with Animals of Its Kind (Ex)
+The hummingbird can communicate with other similar birds, subject to GM interpretation.
+
+### Witch Familiar
+
+Mara's Witch spells are stored within her hummingbird familiar.
+
+She must commune with it to prepare her spells each day.
+
+See: [Witch](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Witch)
 
 ---
 
